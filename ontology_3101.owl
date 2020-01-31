@@ -215,14 +215,6 @@
     
 
 
-    <!-- http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Allergy -->
-
-    <owl:Class rdf:about="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Allergy">
-        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#MedicalTerms"/>
-    </owl:Class>
-    
-
-
     <!-- http://www.semanticweb.org/christine/ontologies/2020/0/mdb#City -->
 
     <owl:Class rdf:about="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#City">
