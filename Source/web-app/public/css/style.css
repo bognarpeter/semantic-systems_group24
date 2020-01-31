@@ -1,0 +1,97 @@
+* {
+  font-family: Catamaran;
+  font-size: 16px;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+
+body {
+  padding-bottom: 12em;
+}
+
+/* HEADER */
+
+header {
+  background-color: #4db6ac;
+  text-color: #074e7a;
+}
+
+.brand-logo {
+  display: block;
+  margin-left: 20px;
+
+}
+
+.leftover-btn {
+  background-color: #e26824;
+  transition: 80%;
+  font-weight: bold;
+}
+
+/* INDEX */
+
+#logo {
+  max-width: 20%;
+  margin-top: 50px;
+}
+
+.slogan {
+  width: 50%;
+  height: 150px;
+}
+
+#slogan {
+  background-color: #fff;
+  color: #e26824;
+  font-weight: bold;
+}
+
+.responsive {
+  max-width: 100%;
+  height: auto;
+}
+
+.container {
+  display: block;
+  margin: 0 0 0 0;
+}
+
+.range-field {
+  margin-top: 27px;
+}
+
+#modal-title {
+  text-align: left;
+}
+
+#modal-img {
+  display: block;
+  float: left;
+}
+
+.recipe-description {
+  text-align: right;
+  text-transform: lowercase;
+  list-style-position: inherit;
+}
+
+/* FOOTER */
+
+#footer-design {
+max-width: 100%;
+margin-bottom: 0;
+padding-bottom: 0;
+}
+
+.footer {
+  max-height: 35vh;
+  margin: 0 0 0 0;
+  padding-top: 50px;
+  position: fixed;
+  z-index: 40;
+  bottom: 0;
+}
+
+.hidden{
+  display: none;
+}
