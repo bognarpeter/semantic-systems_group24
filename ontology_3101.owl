@@ -150,14 +150,6 @@
     
 
 
-    <!-- http://xmlns.com/foaf/0.1/birthday -->
-
-    <owl:DatatypeProperty rdf:about="http://xmlns.com/foaf/0.1/birthday">
-        <rdfs:domain rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-    </owl:DatatypeProperty>
-    
-
-
     <!-- http://xmlns.com/foaf/0.1/firstName -->
 
     <owl:DatatypeProperty rdf:about="http://xmlns.com/foaf/0.1/firstName">
