@@ -1,0 +1,351 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#"
+     xml:base="http://www.semanticweb.org/christine/ontologies/2020/0/mdb"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <owl:Ontology rdf:about="http://www.semanticweb.org/christine/ontologies/2020/0/mdb"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/christine/ontologies/2020/0/mdb#associatedWith -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#associatedWith">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#MedicalDomain"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/christine/ontologies/2020/0/mdb#canTreat -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#canTreat">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Medicine"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/christine/ontologies/2020/0/mdb#consistOf -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#consistOf">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Address"/>
+        <rdfs:range>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#City"/>
+                    <rdf:Description rdf:about="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Country"/>
+                    <rdf:Description rdf:about="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#HouseNumber"/>
+                    <rdf:Description rdf:about="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Street"/>
+                    <rdf:Description rdf:about="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#ZIPCode"/>
+                </owl:intersectionOf>
+            </owl:Class>
+        </rdfs:range>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/christine/ontologies/2020/0/mdb#contains -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#contains">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Medicine"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#ActiveSubstance"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/christine/ontologies/2020/0/mdb#has -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#has">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Patient"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Allergy"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/christine/ontologies/2020/0/mdb#isConnectedTo -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#isConnectedTo">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#ActiveSubstance"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Allergy"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/christine/ontologies/2020/0/mdb#isLegalIn -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#isLegalIn">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Medicine"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Country"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/christine/ontologies/2020/0/mdb#isLocatedAt -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#isLocatedAt">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Institution"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Address"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/christine/ontologies/2020/0/mdb#produces -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#produces">
+        <rdfs:domain rdf:resource="http://dbpedia.org/ontology/Company"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Medicine"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/christine/ontologies/2020/0/mdb#resulting -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#resulting">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Symptom"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/christine/ontologies/2020/0/mdb#specializedIn -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#specializedIn">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Doctor"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#MedicalDomain"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/christine/ontologies/2020/0/mdb#suffersFrom -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#suffersFrom">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Patient"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Symptom"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/christine/ontologies/2020/0/mdb#worksAt -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#worksAt">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Doctor"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Clinic"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://xmlns.com/foaf/0.1/birthday -->
+
+    <owl:DatatypeProperty rdf:about="http://xmlns.com/foaf/0.1/birthday">
+        <rdfs:domain rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://xmlns.com/foaf/0.1/firstName -->
+
+    <owl:DatatypeProperty rdf:about="http://xmlns.com/foaf/0.1/firstName">
+        <rdfs:domain rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://xmlns.com/foaf/0.1/lastName -->
+
+    <owl:DatatypeProperty rdf:about="http://xmlns.com/foaf/0.1/lastName">
+        <rdfs:domain rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://dbpedia.org/ontology/Company -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/Company">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Institution"/>
+    </owl:Class>
+    
+
+
+    <!-- http://dbpedia.org/ontology/Place -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/Place"/>
+    
+
+
+    <!-- http://www.semanticweb.org/christine/ontologies/2020/0/mdb#ActiveSubstance -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#ActiveSubstance">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#MedicalTerms"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Address -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Address">
+        <rdfs:subClassOf rdf:resource="http://dbpedia.org/ontology/Place"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Allergy -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Allergy">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#MedicalTerms"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/christine/ontologies/2020/0/mdb#City -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#City">
+        <rdfs:subClassOf rdf:resource="http://dbpedia.org/ontology/Place"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Clinic -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Clinic">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Institution"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Country -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Country">
+        <rdfs:subClassOf rdf:resource="http://dbpedia.org/ontology/Place"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#MedicalTerms"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Doctor -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Doctor">
+        <rdfs:subClassOf rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/christine/ontologies/2020/0/mdb#HouseNumber -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#HouseNumber">
+        <rdfs:subClassOf rdf:resource="http://dbpedia.org/ontology/Place"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Institution -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Institution"/>
+    
+
+
+    <!-- http://www.semanticweb.org/christine/ontologies/2020/0/mdb#MedicalDomain -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#MedicalDomain">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#MedicalTerms"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/christine/ontologies/2020/0/mdb#MedicalTerms -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#MedicalTerms"/>
+    
+
+
+    <!-- http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Medicine -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Medicine">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#MedicalTerms"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Patient -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Patient">
+        <rdfs:subClassOf rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Street -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Street">
+        <rdfs:subClassOf rdf:resource="http://dbpedia.org/ontology/Place"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Symptom -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Symptom">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#MedicalTerms"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/christine/ontologies/2020/0/mdb#ZIPCode -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#ZIPCode">
+        <rdfs:subClassOf rdf:resource="http://dbpedia.org/ontology/Place"/>
+    </owl:Class>
+    
+
+
+    <!-- http://xmlns.com/foaf/0.1/Person -->
+
+    <owl:Class rdf:about="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi -->
+
