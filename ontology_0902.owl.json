@@ -1,0 +1,909 @@
+{
+  "_comment": "Created with OWL2VOWL (version 0.3.7), http://vowl.visualdataweb.org [Additional Information added by WebVOWL Exporter Version: 1.1.7]",
+  "header": {
+    "baseIris": [
+      "http://www.w3.org/2002/07/owl",
+      "http://www.w3.org/2000/01/rdf-schema",
+      "http://dbpedia.org/ontology",
+      "http://xmlns.com/foaf/0.1",
+      "http://www.semanticweb.org/christine/ontologies/2020/0/mdb"
+    ],
+    "prefixList": {
+      "owl": "http://www.w3.org/2002/07/owl#",
+      "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+      "xsd": "http://www.w3.org/2001/XMLSchema#",
+      "": "http://www.semanticweb.org/christine/ontologies/2020/0/mdb#",
+      "xml": "http://www.w3.org/XML/1998/namespace",
+      "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+    },
+    "iri": "http://www.semanticweb.org/christine/ontologies/2020/0/mdb"
+  },
+  "namespace": [],
+  "settings": {
+    "global": {
+      "zoom": "0.56",
+      "translation": [
+        267.62,
+        158.86
+      ],
+      "paused": true
+    },
+    "gravity": {
+      "classDistance": 200,
+      "datatypeDistance": 120
+    },
+    "filter": {
+      "checkBox": [
+        {
+          "id": "datatypeFilterCheckbox",
+          "checked": false
+        },
+        {
+          "id": "objectPropertyFilterCheckbox",
+          "checked": false
+        },
+        {
+          "id": "subclassFilterCheckbox",
+          "checked": false
+        },
+        {
+          "id": "disjointFilterCheckbox",
+          "checked": true
+        },
+        {
+          "id": "setoperatorFilterCheckbox",
+          "checked": false
+        }
+      ],
+      "degreeSliderValue": "0"
+    },
+    "modes": {
+      "checkBox": [
+        {
+          "id": "pickandpinModuleCheckbox",
+          "checked": false
+        },
+        {
+          "id": "nodescalingModuleCheckbox",
+          "checked": true
+        },
+        {
+          "id": "compactnotationModuleCheckbox",
+          "checked": false
+        },
+        {
+          "id": "colorexternalsModuleCheckbox",
+          "checked": true
+        }
+      ],
+      "colorSwitchState": false
+    }
+  },
+  "class": [
+    {
+      "id": "5",
+      "type": "owl:Class"
+    },
+    {
+      "id": "6",
+      "type": "owl:Class"
+    },
+    {
+      "id": "12",
+      "type": "owl:Class"
+    },
+    {
+      "id": "23",
+      "type": "owl:Class"
+    },
+    {
+      "id": "16",
+      "type": "owl:Class"
+    },
+    {
+      "id": "39",
+      "type": "owl:Thing"
+    },
+    {
+      "id": "40",
+      "type": "rdfs:Literal"
+    },
+    {
+      "id": "11",
+      "type": "owl:Class"
+    },
+    {
+      "id": "3",
+      "type": "owl:Class"
+    },
+    {
+      "id": "18",
+      "type": "owl:Class"
+    },
+    {
+      "id": "31",
+      "type": "owl:Class"
+    },
+    {
+      "id": "17",
+      "type": "owl:Class"
+    },
+    {
+      "id": "22",
+      "type": "owl:Class"
+    },
+    {
+      "id": "14",
+      "type": "rdfs:Datatype"
+    },
+    {
+      "id": "9",
+      "type": "rdfs:Datatype"
+    },
+    {
+      "id": "20",
+      "type": "rdfs:Datatype"
+    },
+    {
+      "id": "4",
+      "type": "rdfs:Datatype"
+    },
+    {
+      "id": "38",
+      "type": "rdfs:Datatype"
+    },
+    {
+      "id": "37",
+      "type": "rdfs:Datatype"
+    },
+    {
+      "id": "28",
+      "type": "rdfs:Datatype"
+    }
+  ],
+  "classAttribute": [
+    {
+      "id": "5",
+      "iri": "http://dbpedia.org/ontology/Disease",
+      "baseIri": "http://dbpedia.org/ontology",
+      "label": {
+        "IRI-based": "Disease"
+      },
+      "attributes": [
+        "external"
+      ],
+      "pos": [
+        117.67,
+        -187.71
+      ]
+    },
+    {
+      "id": "6",
+      "iri": "http://www.semanticweb.org/christine/ontologies/2020/0/mdb#MedicalTerms",
+      "baseIri": "http://www.semanticweb.org/christine/ontologies/2020/0/mdb",
+      "label": {
+        "IRI-based": "MedicalTerms"
+      },
+      "pos": [
+        502.58,
+        -211.87
+      ]
+    },
+    {
+      "id": "12",
+      "iri": "http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Symptom",
+      "baseIri": "http://www.semanticweb.org/christine/ontologies/2020/0/mdb",
+      "label": {
+        "IRI-based": "Symptom"
+      },
+      "pos": [
+        470.07,
+        17.14
+      ]
+    },
+    {
+      "id": "23",
+      "iri": "http://xmlns.com/foaf/0.1/Person",
+      "baseIri": "http://xmlns.com/foaf/0.1",
+      "label": {
+        "IRI-based": "Person"
+      },
+      "attributes": [
+        "external"
+      ],
+      "pos": [
+        -224.83,
+        393.33
+      ]
+    },
+    {
+      "id": "16",
+      "iri": "http://www.semanticweb.org/christine/ontologies/2020/0/mdb#MedicalDomain",
+      "baseIri": "http://www.semanticweb.org/christine/ontologies/2020/0/mdb",
+      "label": {
+        "IRI-based": "MedicalDomain"
+      },
+      "pos": [
+        659.35,
+        20.36
+      ]
+    },
+    {
+      "id": "39",
+      "iri": "http://www.w3.org/2002/07/owl#Thing",
+      "baseIri": "http://owl2vowl.de",
+      "label": {
+        "undefined": "Thing"
+      },
+      "pos": [
+        1463.47,
+        -654.94
+      ]
+    },
+    {
+      "id": "40",
+      "iri": "http://www.w3.org/2000/01/rdf-schema#Literal",
+      "label": "Literal",
+      "attributes": [
+        "datatype"
+      ],
+      "pos": [
+        1298.83,
+        -659.92
+      ]
+    },
+    {
+      "id": "11",
+      "iri": "http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Patient",
+      "baseIri": "http://www.semanticweb.org/christine/ontologies/2020/0/mdb",
+      "label": {
+        "IRI-based": "Patient"
+      },
+      "pos": [
+        -74.23,
+        251.88
+      ]
+    },
+    {
+      "id": "3",
+      "iri": "http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Address",
+      "baseIri": "http://www.semanticweb.org/christine/ontologies/2020/0/mdb",
+      "label": {
+        "IRI-based": "Address"
+      },
+      "pos": [
+        984.48,
+        303.46
+      ]
+    },
+    {
+      "id": "18",
+      "iri": "http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Medicine",
+      "baseIri": "http://www.semanticweb.org/christine/ontologies/2020/0/mdb",
+      "label": {
+        "IRI-based": "Medicine"
+      },
+      "pos": [
+        762.57,
+        -65.89
+      ]
+    },
+    {
+      "id": "31",
+      "iri": "http://dbpedia.org/ontology/Place",
+      "baseIri": "http://dbpedia.org/ontology",
+      "label": {
+        "IRI-based": "Place"
+      },
+      "attributes": [
+        "external"
+      ],
+      "pos": [
+        1001.77,
+        30.7
+      ]
+    },
+    {
+      "id": "17",
+      "iri": "http://www.semanticweb.org/christine/ontologies/2020/0/mdb#ActiveSubstance",
+      "baseIri": "http://www.semanticweb.org/christine/ontologies/2020/0/mdb",
+      "label": {
+        "IRI-based": "ActiveSubstance"
+      },
+      "pos": [
+        710.76,
+        -225.79
+      ]
+    },
+    {
+      "id": "22",
+      "iri": "http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Doctor",
+      "baseIri": "http://www.semanticweb.org/christine/ontologies/2020/0/mdb",
+      "label": {
+        "IRI-based": "Doctor"
+      },
+      "pos": [
+        4.36,
+        393.88
+      ]
+    },
+    {
+      "id": "14",
+      "iri": "http://www.w3.org/2001/XMLSchema#integer",
+      "baseIri": "http://www.w3.org/2001/XMLSchema#",
+      "label": "integer",
+      "attributes": [
+        "datatype"
+      ],
+      "pos": [
+        1025.34,
+        517.68
+      ]
+    },
+    {
+      "id": "9",
+      "iri": "http://www.w3.org/2001/XMLSchema#string",
+      "baseIri": "http://www.w3.org/2001/XMLSchema#",
+      "label": "string",
+      "attributes": [
+        "datatype"
+      ],
+      "pos": [
+        1123.63,
+        452.03
+      ]
+    },
+    {
+      "id": "20",
+      "iri": "http://www.w3.org/2001/XMLSchema#string",
+      "baseIri": "http://www.w3.org/2001/XMLSchema#",
+      "label": "string",
+      "attributes": [
+        "datatype"
+      ],
+      "pos": [
+        1175.49,
+        360.56
+      ]
+    },
+    {
+      "id": "4",
+      "iri": "http://www.w3.org/2001/XMLSchema#string",
+      "baseIri": "http://www.w3.org/2001/XMLSchema#",
+      "label": "string",
+      "attributes": [
+        "datatype"
+      ],
+      "pos": [
+        1193.4,
+        261.72
+      ]
+    },
+    {
+      "id": "38",
+      "iri": "http://www.w3.org/2001/XMLSchema#string",
+      "baseIri": "http://www.w3.org/2001/XMLSchema#",
+      "label": "string",
+      "attributes": [
+        "datatype"
+      ],
+      "pos": [
+        1147.38,
+        157.15
+      ]
+    },
+    {
+      "id": "37",
+      "iri": "http://www.w3.org/2001/XMLSchema#string",
+      "baseIri": "http://www.w3.org/2001/XMLSchema#",
+      "label": "string",
+      "attributes": [
+        "datatype"
+      ],
+      "pos": [
+        -431.46,
+        462.41
+      ]
+    },
+    {
+      "id": "28",
+      "iri": "http://www.w3.org/2001/XMLSchema#string",
+      "baseIri": "http://www.w3.org/2001/XMLSchema#",
+      "label": "string",
+      "attributes": [
+        "datatype"
+      ],
+      "pos": [
+        -354.58,
+        549.98
+      ]
+    }
+  ],
+  "property": [
+    {
+      "id": "2",
+      "type": "owl:DatatypeProperty"
+    },
+    {
+      "id": "8",
+      "type": "owl:DatatypeProperty"
+    },
+    {
+      "id": "10",
+      "type": "owl:ObjectProperty"
+    },
+    {
+      "id": "13",
+      "type": "owl:DatatypeProperty"
+    },
+    {
+      "id": "15",
+      "type": "owl:ObjectProperty"
+    },
+    {
+      "id": "19",
+      "type": "owl:DatatypeProperty"
+    },
+    {
+      "id": "21",
+      "type": "rdfs:subClassOf"
+    },
+    {
+      "id": "24",
+      "type": "rdfs:subClassOf"
+    },
+    {
+      "id": "25",
+      "type": "owl:ObjectProperty"
+    },
+    {
+      "id": "26",
+      "type": "rdfs:subClassOf"
+    },
+    {
+      "id": "27",
+      "type": "owl:DatatypeProperty"
+    },
+    {
+      "id": "29",
+      "type": "rdfs:subClassOf"
+    },
+    {
+      "id": "30",
+      "type": "rdfs:subClassOf"
+    },
+    {
+      "id": "32",
+      "type": "rdfs:subClassOf"
+    },
+    {
+      "id": "34",
+      "type": "rdfs:subClassOf"
+    },
+    {
+      "id": "35",
+      "type": "rdfs:subClassOf"
+    },
+    {
+      "id": "36",
+      "type": "owl:DatatypeProperty"
+    },
+    {
+      "id": "41",
+      "type": "owl:ObjectProperty"
+    },
+    {
+      "id": "42",
+      "type": "owl:DatatypeProperty"
+    },
+    {
+      "id": "46",
+      "type": "owl:ObjectProperty"
+    },
+    {
+      "id": "47",
+      "type": "owl:ObjectProperty"
+    },
+    {
+      "id": "49",
+      "type": "owl:ObjectProperty"
+    },
+    {
+      "id": "50",
+      "type": "owl:DatatypeProperty"
+    },
+    {
+      "id": "objectProperty29",
+      "type": "owl:ObjectProperty"
+    }
+  ],
+  "propertyAttribute": [
+    {
+      "id": "2",
+      "iri": "http://dbpedia.org/ontology/country",
+      "baseIri": "http://dbpedia.org/ontology",
+      "label": {
+        "IRI-based": "country"
+      },
+      "attributes": [
+        "datatype",
+        "external"
+      ],
+      "domain": "3",
+      "range": "4",
+      "pos": [
+        1100.96,
+        280.19
+      ]
+    },
+    {
+      "id": "8",
+      "iri": "http://www.semanticweb.org/christine/ontologies/2020/0/mdb#streetName",
+      "baseIri": "http://www.semanticweb.org/christine/ontologies/2020/0/mdb",
+      "label": {
+        "IRI-based": "streetName"
+      },
+      "attributes": [
+        "datatype"
+      ],
+      "domain": "3",
+      "range": "9",
+      "pos": [
+        1066.46,
+        390.99
+      ]
+    },
+    {
+      "id": "10",
+      "iri": "http://www.semanticweb.org/christine/ontologies/2020/0/mdb#suffersFrom",
+      "baseIri": "http://www.semanticweb.org/christine/ontologies/2020/0/mdb",
+      "label": {
+        "IRI-based": "suffersFrom"
+      },
+      "attributes": [
+        "object"
+      ],
+      "domain": "11",
+      "range": "12",
+      "pos": [
+        197.92,
+        134.51
+      ]
+    },
+    {
+      "id": "13",
+      "iri": "http://www.semanticweb.org/christine/ontologies/2020/0/mdb#streetNumber",
+      "baseIri": "http://www.semanticweb.org/christine/ontologies/2020/0/mdb",
+      "label": {
+        "IRI-based": "streetNumber"
+      },
+      "attributes": [
+        "datatype"
+      ],
+      "domain": "3",
+      "range": "14",
+      "pos": [
+        1008.64,
+        430.13
+      ]
+    },
+    {
+      "id": "15",
+      "iri": "http://www.semanticweb.org/christine/ontologies/2020/0/mdb#resulting",
+      "baseIri": "http://www.semanticweb.org/christine/ontologies/2020/0/mdb",
+      "label": {
+        "IRI-based": "resulting"
+      },
+      "attributes": [
+        "object"
+      ],
+      "domain": "5",
+      "range": "12",
+      "pos": [
+        293.87,
+        -85.28
+      ]
+    },
+    {
+      "id": "19",
+      "iri": "http://www.semanticweb.org/christine/ontologies/2020/0/mdb#zipCode",
+      "baseIri": "http://www.semanticweb.org/christine/ontologies/2020/0/mdb",
+      "label": {
+        "IRI-based": "zipCode"
+      },
+      "attributes": [
+        "datatype"
+      ],
+      "domain": "3",
+      "range": "20",
+      "pos": [
+        1091.44,
+        335.43
+      ]
+    },
+    {
+      "id": "21",
+      "label": "Subclass of",
+      "attributes": [
+        "object",
+        "anonymous"
+      ],
+      "domain": "22",
+      "range": "23",
+      "pos": [
+        -110.23,
+        393.61
+      ]
+    },
+    {
+      "id": "24",
+      "label": "Subclass of",
+      "attributes": [
+        "object",
+        "anonymous"
+      ],
+      "domain": "11",
+      "range": "23",
+      "pos": [
+        -149.53,
+        322.61
+      ]
+    },
+    {
+      "id": "25",
+      "iri": "http://www.semanticweb.org/christine/ontologies/2020/0/mdb#contains",
+      "baseIri": "http://www.semanticweb.org/christine/ontologies/2020/0/mdb",
+      "label": {
+        "IRI-based": "contains"
+      },
+      "attributes": [
+        "object"
+      ],
+      "domain": "18",
+      "range": "17",
+      "pos": [
+        736.66,
+        -145.84
+      ]
+    },
+    {
+      "id": "26",
+      "label": "Subclass of",
+      "attributes": [
+        "object",
+        "anonymous"
+      ],
+      "domain": "5",
+      "range": "6",
+      "pos": [
+        310.13,
+        -199.79
+      ]
+    },
+    {
+      "id": "27",
+      "iri": "http://xmlns.com/foaf/0.1/lastName",
+      "baseIri": "http://xmlns.com/foaf/0.1",
+      "label": {
+        "IRI-based": "lastName"
+      },
+      "attributes": [
+        "datatype",
+        "external"
+      ],
+      "domain": "23",
+      "range": "28",
+      "pos": [
+        -301.51,
+        485.91
+      ]
+    },
+    {
+      "id": "29",
+      "label": "Subclass of",
+      "attributes": [
+        "object",
+        "anonymous"
+      ],
+      "domain": "17",
+      "range": "6",
+      "pos": [
+        606.67,
+        -218.83
+      ]
+    },
+    {
+      "id": "30",
+      "label": "Subclass of",
+      "attributes": [
+        "object",
+        "anonymous"
+      ],
+      "domain": "3",
+      "range": "31",
+      "pos": [
+        993.13,
+        167.08
+      ]
+    },
+    {
+      "id": "32",
+      "label": "Subclass of",
+      "attributes": [
+        "object",
+        "anonymous"
+      ],
+      "domain": "18",
+      "range": "6",
+      "pos": [
+        632.58,
+        -138.88
+      ]
+    },
+    {
+      "id": "34",
+      "label": "Subclass of",
+      "attributes": [
+        "object",
+        "anonymous"
+      ],
+      "domain": "12",
+      "range": "6",
+      "pos": [
+        486.32,
+        -97.37
+      ]
+    },
+    {
+      "id": "35",
+      "label": "Subclass of",
+      "attributes": [
+        "object",
+        "anonymous"
+      ],
+      "domain": "16",
+      "range": "6",
+      "pos": [
+        580.97,
+        -95.75
+      ]
+    },
+    {
+      "id": "36",
+      "iri": "http://xmlns.com/foaf/0.1/firstName",
+      "baseIri": "http://xmlns.com/foaf/0.1",
+      "label": {
+        "IRI-based": "firstName"
+      },
+      "attributes": [
+        "datatype",
+        "external"
+      ],
+      "domain": "23",
+      "range": "37",
+      "pos": [
+        -339.36,
+        431.62
+      ]
+    },
+    {
+      "id": "41",
+      "iri": "http://www.semanticweb.org/christine/ontologies/2020/0/mdb#canTreat",
+      "baseIri": "http://www.semanticweb.org/christine/ontologies/2020/0/mdb",
+      "label": {
+        "IRI-based": "canTreat"
+      },
+      "attributes": [
+        "object"
+      ],
+      "domain": "18",
+      "range": "5",
+      "pos": [
+        440.12,
+        -126.8
+      ]
+    },
+    {
+      "id": "42",
+      "iri": "http://dbpedia.org/ontology/city",
+      "baseIri": "http://dbpedia.org/ontology",
+      "label": {
+        "IRI-based": "city"
+      },
+      "attributes": [
+        "datatype",
+        "external"
+      ],
+      "domain": "3",
+      "range": "38",
+      "pos": [
+        1078.96,
+        218.6
+      ]
+    },
+    {
+      "id": "46",
+      "iri": "http://www.semanticweb.org/christine/ontologies/2020/0/mdb#associatedWith",
+      "baseIri": "http://www.semanticweb.org/christine/ontologies/2020/0/mdb",
+      "label": {
+        "IRI-based": "associatedWith"
+      },
+      "attributes": [
+        "object"
+      ],
+      "domain": "5",
+      "range": "16",
+      "pos": [
+        388.51,
+        -83.68
+      ]
+    },
+    {
+      "id": "47",
+      "iri": "http://www.semanticweb.org/christine/ontologies/2020/0/mdb#isAllergicTo",
+      "baseIri": "http://www.semanticweb.org/christine/ontologies/2020/0/mdb",
+      "label": {
+        "IRI-based": "isAllergicTo"
+      },
+      "attributes": [
+        "object"
+      ],
+      "domain": "11",
+      "range": "17",
+      "pos": [
+        318.26,
+        13.05
+      ]
+    },
+    {
+      "id": "49",
+      "iri": "http://www.semanticweb.org/christine/ontologies/2020/0/mdb#specializedIn",
+      "baseIri": "http://www.semanticweb.org/christine/ontologies/2020/0/mdb",
+      "label": {
+        "IRI-based": "specializedIn"
+      },
+      "attributes": [
+        "object"
+      ],
+      "domain": "22",
+      "range": "16",
+      "pos": [
+        331.86,
+        207.12
+      ]
+    },
+    {
+      "id": "50",
+      "iri": "http://www.w3.org/2002/07/owl#topDataProperty",
+      "baseIri": "http://www.w3.org/2002/07/owl",
+      "label": {
+        "IRI-based": "topDataProperty"
+      },
+      "attributes": [
+        "datatype",
+        "external"
+      ],
+      "domain": "39",
+      "range": "40",
+      "pos": [
+        1379.41,
+        -657.48
+      ]
+    },
+    {
+      "id": "objectProperty29",
+      "iri": "http://www.semanticweb.org/christine/ontologies/2020/0/mdblivesAt",
+      "baseIri": "http://www.semanticweb.org/christine/ontologies/2020/0/mdb",
+      "label": "livesAt",
+      "attributes": [
+        "object"
+      ],
+      "domain": "23",
+      "range": "3",
+      "pos": [
+        379.82,
+        348.39
+      ]
+    }
+  ]
+}
