@@ -1,0 +1,510 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/">
+
+<rdf:Description rdf:about="http://localhost:3333/0">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Patient"/>
+	<foaf:firstName>Amelia</foaf:firstName>
+	<foaf:lastName>Nixon</foaf:lastName>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">pain chest</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">shortness of breath</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">dizziness</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">asthenia</suffersFrom>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/1">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Patient"/>
+	<foaf:firstName>Mason</foaf:firstName>
+	<foaf:lastName>Brown</foaf:lastName>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">asthenia</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">polymyalgia</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">passed stones</suffersFrom>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/2">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Patient"/>
+	<foaf:firstName>Eleanor</foaf:firstName>
+	<foaf:lastName>Ritter</foaf:lastName>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">lesion</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">pain</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">mass of body structure</suffersFrom>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/3">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Patient"/>
+	<foaf:firstName>Sofia</foaf:firstName>
+	<foaf:lastName>Wise</foaf:lastName>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">drool</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">agitation</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">nightmare</suffersFrom>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/4">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Patient"/>
+	<foaf:firstName>Nevaeh</foaf:firstName>
+	<foaf:lastName>Perry</foaf:lastName>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">shortness of breath</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">hyperkalemia</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">pain chest</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">fever</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">gravida 0</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">bleeding of vagina</suffersFrom>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/5">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Patient"/>
+	<foaf:firstName>Addison</foaf:firstName>
+	<foaf:lastName>Combs</foaf:lastName>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">mass in breast</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">mass of body structure</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">paresthesia</suffersFrom>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/6">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Patient"/>
+	<foaf:firstName>Ashley</foaf:firstName>
+	<foaf:lastName>Wilson</foaf:lastName>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">groggy</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">muscle twitch</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">wheelchair bound</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">tremor</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">cough</suffersFrom>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/7">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Patient"/>
+	<foaf:firstName>Levi</foaf:firstName>
+	<foaf:lastName>Burns</foaf:lastName>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">fever</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">night sweat</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">spontaneous rupture of membranes</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">cough</suffersFrom>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/8">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Patient"/>
+	<foaf:firstName>Jonah</foaf:firstName>
+	<foaf:lastName>Smith</foaf:lastName>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">fever</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">night sweat</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">spontaneous rupture of membranes</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">cough</suffersFrom>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/9">
+	<foaf:firstName>Eli</foaf:firstName>
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Patient"/>
+	<foaf:lastName>Wilson</foaf:lastName>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">pain chest</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">shortness of breath</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">dizziness</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">asthenia</suffersFrom>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/10">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Patient"/>
+	<foaf:firstName>Samantha</foaf:firstName>
+	<foaf:lastName>Flores</foaf:lastName>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">pain chest</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">shortness of breath</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">dizziness</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">asthenia</suffersFrom>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/11">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Patient"/>
+	<foaf:firstName>Riley</foaf:firstName>
+	<foaf:lastName>Jones</foaf:lastName>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">pain chest</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">st segment elevation</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">sweat</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">shortness of breath</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">st segment depression</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">hypokinesia</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">angina pectoris</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">pressure chest</suffersFrom>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/12">
+	<foaf:firstName>Jake</foaf:firstName>
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Patient"/>
+	<foaf:lastName>Glover</foaf:lastName>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">pain chest</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">shortness of breath</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">dizziness</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">asthenia</suffersFrom>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/13">
+	<foaf:lastName>Hess</foaf:lastName>
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Patient"/>
+	<foaf:firstName>Marcus</foaf:firstName>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">pain chest</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">shortness of breath</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">dizziness</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">asthenia</suffersFrom>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/14">
+	<foaf:firstName>London</foaf:firstName>
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Patient"/>
+	<foaf:lastName>Rodriguez</foaf:lastName>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">polyuria</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">polydypsia</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">shortness of breath</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">pain chest</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">asthenia</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">nausea</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">orthopnea</suffersFrom>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/15">
+	<foaf:lastName>Smith</foaf:lastName>
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Patient"/>
+	<foaf:firstName>Adrian</foaf:firstName>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">shortness of breath</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">hyperkalemia</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">pain chest</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">fever</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">gravida 0</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">bleeding of vagina</suffersFrom>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/16">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Patient"/>
+	<foaf:firstName>Kaiden</foaf:firstName>
+	<foaf:lastName>Powell</foaf:lastName>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">pain chest</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">shortness of breath</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">dizziness</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">asthenia</suffersFrom>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/17">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Patient"/>
+	<foaf:firstName>Carlos</foaf:firstName>
+	<foaf:lastName>Smith</foaf:lastName>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">hematuria</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">dysesthesia</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">asthenia</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">polymyalgia</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">passed stones</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">pleuritic pain</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">guaiac positive</suffersFrom>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/18">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Patient"/>
+	<foaf:firstName>Ivy</foaf:firstName>
+	<foaf:lastName>Freeman</foaf:lastName>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">mass in breast</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">mass of body structure</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">paresthesia</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">retropulsion</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">erythema</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">difficulty</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">lesion</suffersFrom>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/19">
+	<foaf:lastName>Alexander</foaf:lastName>
+	<foaf:firstName>Jackson</foaf:firstName>
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Patient"/>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">fever</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">night sweat</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">spontaneous rupture of membranes</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">cough</suffersFrom>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/20">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Patient"/>
+	<foaf:firstName>Lily</foaf:firstName>
+	<foaf:lastName>Williams</foaf:lastName>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">mass in breast</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">mass of body structure</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">paresthesia</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">retropulsion</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">erythema</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">difficulty</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">lesion</suffersFrom>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/21">
+	<foaf:lastName>Esparza</foaf:lastName>
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Patient"/>
+	<foaf:firstName>Nicholas</foaf:firstName>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">pain</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">mass of body structure</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">lesion</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">cushingoid facies</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">emphysematous change</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">decreased body weight</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">ascites</suffersFrom>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/22">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Patient"/>
+	<foaf:firstName>Isaiah</foaf:firstName>
+	<foaf:lastName>Little</foaf:lastName>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">hematuria</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">dysesthesia</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">asthenia</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">polymyalgia</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">passed stones</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">pleuritic pain</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">guaiac positive</suffersFrom>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/23">
+	<foaf:firstName>Adam</foaf:firstName>
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Patient"/>
+	<foaf:lastName>Strickland</foaf:lastName>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">drool</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">agitation</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">nightmare</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">rhonchus</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">consciousness clear</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">pin-point pupils</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">bedridden</suffersFrom>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/24">
+	<foaf:lastName>Miller</foaf:lastName>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">heme positive</suffersFrom>
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Patient"/>
+	<foaf:firstName>Mason</foaf:firstName>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">pain abdominal</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">vomiting</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">disequilibrium</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">nausea</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">intoxication</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">haemorrhage</suffersFrom>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/25">
+	<foaf:firstName>Austin</foaf:firstName>
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Patient"/>
+	<foaf:lastName>Johnson</foaf:lastName>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">shortness of breath</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">hyperkalemia</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">pain chest</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">fever</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">gravida 0</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">bleeding of vagina</suffersFrom>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/26">
+	<foaf:firstName>Robert</foaf:firstName>
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Patient"/>
+	<foaf:lastName>Chandler</foaf:lastName>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">shortness of breath</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">hyperkalemia</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">pain chest</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">fever</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">gravida 0</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">bleeding of vagina</suffersFrom>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/27">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Patient"/>
+	<foaf:firstName>Eliana</foaf:firstName>
+	<foaf:lastName>Stephenson</foaf:lastName>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">mass in breast</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">mass of body structure</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">paresthesia</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">retropulsion</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">erythema</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">difficulty</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">lesion</suffersFrom>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/28">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Patient"/>
+	<foaf:firstName>Valeria</foaf:firstName>
+	<foaf:lastName>Vaughan</foaf:lastName>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">mass in breast</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">mass of body structure</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">paresthesia</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">retropulsion</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">erythema</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">difficulty</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">lesion</suffersFrom>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/29">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Patient"/>
+	<foaf:firstName>Emily</foaf:firstName>
+	<foaf:lastName>Robbins</foaf:lastName>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">pain chest</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">shortness of breath</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">dizziness</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">asthenia</suffersFrom>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/30">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Patient"/>
+	<foaf:firstName>Nicole</foaf:firstName>
+	<foaf:lastName>Freeman</foaf:lastName>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">pain chest</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">shortness of breath</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">dizziness</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">asthenia</suffersFrom>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/31">
+	<foaf:firstName>Addison</foaf:firstName>
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Patient"/>
+	<foaf:lastName>Gomez</foaf:lastName>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">fever</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">night sweat</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">spontaneous rupture of membranes</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">cough</suffersFrom>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/32">
+	<foaf:firstName>Luke</foaf:firstName>
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Patient"/>
+	<foaf:lastName>Miller</foaf:lastName>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">pain chest</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">shortness of breath</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">dizziness</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">asthenia</suffersFrom>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/33">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Patient"/>
+	<foaf:firstName>Charles</foaf:firstName>
+	<foaf:lastName>Parrish</foaf:lastName>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">hematuria</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">dysesthesia</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">asthenia</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">polymyalgia</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">passed stones</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">pleuritic pain</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">guaiac positive</suffersFrom>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/34">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Patient"/>
+	<foaf:firstName>Austin</foaf:firstName>
+	<foaf:lastName>Harris</foaf:lastName>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">pain chest</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">shortness of breath</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">dizziness</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">asthenia</suffersFrom>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/35">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Patient"/>
+	<foaf:firstName>Olivia</foaf:firstName>
+	<foaf:lastName>Wong</foaf:lastName>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">polyuria</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">polydypsia</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">shortness of breath</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">pain chest</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">asthenia</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">nausea</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">orthopnea</suffersFrom>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/36">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Patient"/>
+	<foaf:firstName>Julia</foaf:firstName>
+	<foaf:lastName>Davis</foaf:lastName>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">heme positive</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">pain abdominal</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">vomiting</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">disequilibrium</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">nausea</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">intoxication</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">haemorrhage</suffersFrom>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/37">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Patient"/>
+	<foaf:firstName>Jessica</foaf:firstName>
+	<foaf:lastName>Daniels</foaf:lastName>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">pain chest</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">shortness of breath</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">dizziness</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">asthenia</suffersFrom>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/38">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Patient"/>
+	<foaf:firstName>Ella</foaf:firstName>
+	<foaf:lastName>Ward</foaf:lastName>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">shortness of breath</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">hyperkalemia</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">pain chest</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">fever</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">gravida 0</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">bleeding of vagina</suffersFrom>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/39">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Patient"/>
+	<foaf:firstName>Emma</foaf:firstName>
+	<foaf:lastName>Cook</foaf:lastName>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">drool</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">agitation</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">nightmare</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">rhonchus</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">consciousness clear</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">pin-point pupils</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">bedridden</suffersFrom>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/40">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Patient"/>
+	<foaf:firstName>Violet</foaf:firstName>
+	<foaf:lastName>Hernandez</foaf:lastName>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">drool</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">agitation</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">nightmare</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">rhonchus</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">consciousness clear</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">pin-point pupils</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">bedridden</suffersFrom>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/41">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Patient"/>
+	<foaf:firstName>Abigail</foaf:firstName>
+	<foaf:lastName>Hall</foaf:lastName>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">pain</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">mass of body structure</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">lesion</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">cushingoid facies</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">emphysematous change</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">decreased body weight</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">ascites</suffersFrom>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/42">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Patient"/>
+	<foaf:firstName>Izabella</foaf:firstName>
+	<foaf:lastName>Miller</foaf:lastName>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">pain chest</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">shortness of breath</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">dizziness</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">asthenia</suffersFrom>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/43">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Patient"/>
+	<foaf:firstName>Aiden</foaf:firstName>
+	<foaf:lastName>Hines</foaf:lastName>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">hematuria</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">dysesthesia</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">asthenia</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">polymyalgia</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">passed stones</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">pleuritic pain</suffersFrom>
+	<suffersFrom xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">guaiac positive</suffersFrom>
+</rdf:Description>
+
+</rdf:RDF>
