@@ -1,0 +1,812 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/">
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/0">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<foaf:name>hypertensive disease</foaf:name>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">pain chest,shortness of breath,dizziness,asthenia,fall,syncope,vertigo,sweat,palpitation,nausea,angina pectoris,pressure chest,,,,,,,,,,,,,,,,</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/1">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<foaf:name>diabetes</foaf:name>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">polyuria,polydypsia,shortness of breath,pain chest,asthenia,nausea,orthopnea,rale,sweat,unresponsiveness,mental status changes,vertigo,vomiting,labored breathing,,,,,,,,,,,,,,</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/2">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<foaf:name>depression mental</foaf:name>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">feeling suicidal,suicidal,hallucinations auditory,feeling hopeless,weepiness,sleeplessness,motor retardation,irritable mood,blackout,mood depressed,hallucinations visual,worry,agitation,tremor,intoxication,verbal auditory hallucinations,energy increased,difficulty,nightmare,unable to concentrate,homelessness,,,,,,,</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/3">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<foaf:name>coronary arteriosclerosis</foaf:name>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">pain chest,angina pectoris,shortness of breath,hypokinesia,sweat,pressure chest,dyspnea on exertion,orthopnea,chest tightness,,,,,,,,,,,,,,,,,,,</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/4">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<foaf:name>pneumonia</foaf:name>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">cough,fever,decreased translucency,shortness of breath,rale,productive cough,pleuritic pain,yellow sputum,breath sounds decreased,chill,rhonchus,green sputum,non-productive cough,wheezing,haemoptysis,distress respiratory,tachypnea,malaise,night sweat,,,,,,,,,</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/5">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<foaf:name>failure heart congestive</foaf:name>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">shortness of breath,orthopnea,jugular venous distention,rale,dyspnea,cough,wheezing,,,,,,,,,,,,,,,,,,,,,</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/6">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<foaf:name>accident cerebrovascular</foaf:name>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">dysarthria,asthenia,speech slurred,facial paresis,hemiplegia,unresponsiveness,seizure,numbness,,,,,,,,,,,,,,,,,,,,</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/7">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<foaf:name>asthma</foaf:name>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">wheezing,cough,shortness of breath,chest tightness,non-productive cough,pleuritic pain,productive cough,symptom aggravating factors,distress respiratory,,,,,,,,,,,,,,,,,,,</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/8">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<foaf:name>myocardial infarction</foaf:name>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">pain chest,st segment elevation,sweat,shortness of breath,st segment depression,hypokinesia,angina pectoris,pressure chest,t wave inverted,orthopnea,rale,chest tightness,presence of q wave,palpitation,dyspnea,chest discomfort,bradycardia,syncope,,,,,,,,,,</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/9">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<foaf:name>hypercholesterolemia</foaf:name>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">pain,pain chest,sweat,nonsmoker,pressure chest,syncope,numbness,chest discomfort,shortness of breath,st segment depression,worry,t wave inverted,bradycardia,dyspnea,,,,,,,,,,,,,,</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/10">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<foaf:name>infection</foaf:name>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">fever,erythema,decreased translucency,hepatosplenomegaly,chill,pruritus,diarrhea,abscess bacterial,swelling,pain,apyrexial,cough,,,,,,,,,,,,,,,,</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/11">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<foaf:name>infection urinary tract</foaf:name>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">fever,dysuria,hematuria,renal angle tenderness,lethargy,asthenia,hyponatremia,hemodynamically stable,distress respiratory,difficulty passing urine,mental status changes,consciousness clear,,,,,,,,,,,,,,,,</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/12">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<foaf:name>anemia</foaf:name>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">chill,guaiac positive,monoclonal,ecchymosis,tumor cell invasion,haemorrhage,pallor,asthenia,fatigue,heme positive,pain back,orthostasis,hyponatremia,dizziness,shortness of breath,pain,rhonchus,arthralgia,swelling,transaminitis,,,,,,,,</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/13">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<foaf:name>chronic obstructive airway disease</foaf:name>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">shortness of breath,wheezing,cough,dyspnea,distress respiratory,sputum purulent,hypoxemia,hypercapnia,patient non compliance,chest tightness,,,,,,,,,,,,,,,,,,</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/14">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<foaf:name>dementia</foaf:name>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">fever,fall,unresponsiveness,lethargy,agitation,ecchymosis,syncope,rale,unconscious state,cough,bedridden,pain,facial paresis,abdominal tenderness,rhonchus,unsteady gait,hallucinations auditory,,,,,,,,,,,</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/15">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<foaf:name>insufficiency renal</foaf:name>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">shortness of breath,hyperkalemia,orthopnea,rale,urgency of micturition,ascites,guaiac positive,asthenia,apyrexial,mental status changes,dyspnea,difficulty,diarrhea,hypotension,breath sounds decreased,swelling,hypokinesia,,,,,,,,,,,</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/16">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<foaf:name>confusion</foaf:name>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">seizure,enuresis,lethargy,speech slurred,fall,consciousness clear,mental status changes,asterixis,unconscious state,agitation,muscle twitch,asthenia,sleepy,dizziness,headache,dysarthria,lightheadedness,tremor,hyponatremia,unresponsiveness,,,,,,,,</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/17">
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">pain,food intolerance,numbness of hand,general discomfort,drowsiness,asthenia,nonsmoker,non-productive cough,polydypsia,stiffness,unsteady gait,,,,,,,,,,,,,,,,,</resulting>
+	<foaf:name>degenerative polyarthritis</foaf:name>
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/18">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<foaf:name>hypothyroidism</foaf:name>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">shortness of breath,prostatism,drowsiness,hyponatremia,fall,unsteady gait,polyuria,hypotension,difficulty,syncope,nightmare,speech slurred,weight gain,asthenia,fatigue,agitation,mental status changes,motor retardation,vomiting,numbness,mass of body structure,,,,,,,</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/19">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<foaf:name>anxiety state</foaf:name>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">worry,feeling suicidal,suicidal,sleeplessness,feeling hopeless,irritable mood,tremor,blackout,weepiness,has religious belief,nervousness,hallucinations visual,formication,difficulty,pain chest,patient non compliance,agitation,palpitation,hallucinations auditory,mood depressed,hot flush,pain,consciousness clear,nightmare,,,,</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/20">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<foaf:name>malignant neoplasms</foaf:name>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">pain,mass of body structure,lesion,cushingoid facies,emphysematous change,decreased body weight,ascites,hoarseness,thicken,hematuria,,,,,,,,,,,,,,,,,,</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/21">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<foaf:name>acquired immuno-deficiency syndrome</foaf:name>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">fever,night sweat,spontaneous rupture of membranes,cough,,decreased body weight,chill,diarrhea,pleuritic pain,patient non compliance,tachypnea,productive cough,muscle hypotonia,feeling suicidal,,,,,,,,,,,,,,</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/22">
+	<foaf:name>cellulitis</foaf:name>
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">erythema,pain,swelling,redness,fever,abscess bacterial,patient non compliance,hypesthesia,hyperacusis,pruritus,pain chest,scratch marks,chill,sore to touch,,,,,,,,,,,,,,</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/23">
+	<foaf:name>gastroesophageal reflux disease</foaf:name>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">pain,pain chest,burning sensation,hyponatremia,satiety early,throbbing sensation quality,chest tightness,sensory discomfort,presence of q wave,nausea,general discomfort,constipation,palpitation,pain abdominal,heartburn,sweat,asthenia,,,,,,,,,,,</resulting>
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/24">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<foaf:name>septicemia</foaf:name>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">fever,distress respiratory,hypotension,tachypnea,chill,lethargy,bradycardia,breech presentation,cyanosis,spontaneous rupture of membranes,haemorrhage,unresponsiveness,rale,apyrexial,,,,,,,,,,,,,,</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/25">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<foaf:name>deep vein thrombosis</foaf:name>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">swelling,pain,ecchymosis,shortness of breath,pain in lower limb,cardiomegaly,rale,erythema,hypotension,clonus,non-productive cough,redness,,,,,,,,,,,,,,,,</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/26">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<foaf:name>dehydration</foaf:name>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">fever,diarrhea,vomiting,hypotension,nausea,lightheadedness,unwell,mental status changes,anorexia,asthenia,sensory discomfort,syncope,lethargy,dizziness,syncope,,,,,,,,,,,,,</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/27">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<foaf:name>neoplasm</foaf:name>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">mass of body structure,lesion,pain chest,hematuria,tumor cell invasion,pain,anosmia,thicken,metastatic lesion,food intolerance,decreased body weight,night sweat,hemianopsia homonymous,satiety early,pain abdominal,headache,,,,,,,,,,,,</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/28">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<foaf:name>embolism pulmonary</foaf:name>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">shortness of breath,hypoxemia,tachypnea,hematocrit decreased,pain chest,dyspnea,pleuritic pain,neck stiffness,yellow sputum,productive cough,cicatrisation,unresponsiveness,distress respiratory,wheezing,apyrexial,non-productive cough,,,,,,,,,,,,</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/29">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<foaf:name>epilepsy</foaf:name>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">seizure,hypometabolism,aura,muscle twitch,drowsiness,tremor,unresponsiveness,hemiplegia,myoclonus,gurgle,sleepy,lethargy,wheelchair bound,,,,,,,,,,,,,,,</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/30">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<foaf:name>cardiomyopathy</foaf:name>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">shortness of breath,orthopnea,hypokinesia,jugular venous distention,palpitation,pain chest,syncope,yellow sputum,rale,dyspnea,dyspnea on exertion,left atrial hypertrophy,fatigue,weight gain,patient non compliance,,,,,,,,,,,,,</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/31">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<foaf:name>chronic kidney failure</foaf:name>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">vomiting,orthopnea,hyperkalemia,oliguria,jugular venous distention,nausea,shortness of breath,mental status changes,diarrhea,asthenia,chest tightness,malaise,chill,rale,fever,pleuritic pain,apyrexial,guaiac positive,swelling,catatonia,unresponsiveness,yellow sputum,,,,,,</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/32">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<foaf:name>carcinoma</foaf:name>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">mass of body structure,pain,lesion,tumor cell invasion,thicken,decreased body weight,hoarseness,general discomfort,metastatic lesion,non-productive cough,constipation,unhappy,paresthesia,gravida 0,diarrhea,sore to touch,heartburn,nausea,lung nodule,,,,,,,,,</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/33">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<foaf:name>hepatitis C</foaf:name>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">ascites,distended abdomen,feeling suicidal,cough,ache,macerated skin,heavy feeling,hallucinations auditory,chill,asterixis,patient non compliance,,,,,,,,,,,,,,,,,</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/34">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<foaf:name>peripheral vascular disease</foaf:name>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">shortness of breath,rest pain,angina pectoris,unresponsiveness,hyperkalemia,sinus rhythm,labored breathing,dyspnea,sore to touch,anorexia,sleepy,,,,,,,,,,,,,,,,,</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/35">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<foaf:name>psychotic disorder</foaf:name>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">suicidal,hallucinations auditory,feeling suicidal,hallucinations visual,motor retardation,blackout,verbal auditory hallucinations,feeling hopeless,irritable mood,agitation,tremor,catatonia,weepiness,homelessness,sleeplessness,withdraw,energy increased,intoxication,worry,behavior hyperactive,patient non compliance,mood depressed,terrify,nightmare,consciousness clear,,,</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/36">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<foaf:name>hyperlipidemia</foaf:name>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">pain chest,angina pectoris,palpitation,presence of q wave,photopsia,sweat,chest discomfort,shortness of breath,giddy mood,hypokinesia,hemiplegia,dizziness,,,,,,,,,,,,,,,,</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/37">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<foaf:name>bipolar disorder</foaf:name>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">feeling suicidal,energy increased,suicidal,irritable mood,agitation,has religious belief,disturbed family,hallucinations auditory,verbal auditory hallucinations,weepiness,behavior hyperactive,catatonia,feeling hopeless,worry,sleeplessness,hypersomnia,difficulty,hallucinations visual,hyperhidrosis disorder,mydriasis,extrapyramidal sign,loose associations,intoxication,motor retardation,homelessness,blackout,tremor,exhaustion</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/38">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<foaf:name>obesity</foaf:name>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">pain,catatonia,snore,pain chest,r wave feature,has religious belief,shortness of breath,fatigue,overweight,systolic murmur,mood depressed,ecchymosis,,,,,,,,,,,,,,,,</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/39">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<foaf:name>ischemia</foaf:name>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">drowsiness,pain chest,angina pectoris,pressure chest,chest discomfort,shortness of breath,dyspnea,sinus rhythm,bradycardia,sweat,rale,asymptomatic,anorexia,,,,,,,,,,,,,,,</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/40">
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">ascites,fall,splenomegaly,pruritus,pain abdominal,tumor cell invasion,distended abdomen,lesion,hemodynamically stable,guaiac positive,sore to touch,bleeding of vagina,,,,,,,,,,,,,,,,</resulting>
+	<foaf:name>cirrhosis</foaf:name>
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/41">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<foaf:name>exanthema</foaf:name>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">fever,pruritus,macule,lesion,redness,headache,apyrexial,arthralgia,swelling,erythema,photophobia,chill,scratch marks,pain,painful swallowing,,,,,,,,,,,,,</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/42">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<foaf:name>benign prostatic hypertrophy</foaf:name>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">mental status changes,cachexia,blackout,orthostasis,orthopnea,night sweat,distress respiratory,anorexia,dysarthria,,,,,,,,,,,,,,,,,,,</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/43">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<foaf:name>kidney failure acute</foaf:name>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">hyperkalemia,hypotension,hypocalcemia result,oliguria,hemodynamically stable,asthenia,hypothermia, natural,diarrhea,haemorrhage,unresponsiveness,,,,,,,,,,,,,,,,,</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/44">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<foaf:name>mitral valve insufficiency</foaf:name>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">shortness of breath,dyspnea on exertion,asymptomatic,hypokinesia,dyspnea,syncope,thicken,left atrial hypertrophy,palpitation,fatigue,vomiting,pain,cardiomegaly,chest discomfort,,,,,,,,,,,,,,</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/45">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<foaf:name>arthritis</foaf:name>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">pain,hemodynamically stable,sleeplessness,asthenia,syncope,swelling,atypia,general unsteadiness,shortness of breath,distended abdomen,,,,,,,,,,,,,,,,,,</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/46">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<foaf:name>bronchitis</foaf:name>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">cough,wheezing,shortness of breath,chest tightness,fever,throat sore,productive cough,hepatosplenomegaly,night sweat,haemoptysis,labored breathing,snuffle,hacking cough,dyspnea,chill,stridor,decreased body weight,,,,,,,,,,,</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/47">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<foaf:name>hemiparesis</foaf:name>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">dysarthria,paresis,asthenia,aphagia,seizure,speech slurred,focal seizures,hemiplegia,abnormal sensation,unresponsiveness,stupor,drowsiness,fremitus,Stahli's line,stinging sensation,paralyse,clonus,facial paresis,,,,,,,,,,</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/48">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<foaf:name>osteoporosis</foaf:name>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">prostatism,fall,hirsutism,sniffle,distended abdomen,vertigo,numbness of hand,bradykinesia,pain,syncope,out of breath,apyrexial,urge incontinence,lightheadedness,,,,,,,,,,,,,,</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/49">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<foaf:name>transient ischemic attack</foaf:name>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">speech slurred,dysarthria,facial paresis,asthenia,neck stiffness,vertigo,numbness,lightheadedness,extrapyramidal sign,Stahli's line,vision blurred,headache,room spinning,syncope,difficulty,rambling speech,clumsiness,,,,,,,,,,,</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/50">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<foaf:name>adenocarcinoma</foaf:name>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">mass of body structure,lesion,decreased body weight,constipation,fremitus,decreased stool caliber,satiety early,hematochezia,egophony,pain,cicatrisation,pain abdominal,,,,,,,,,,,,,,,,</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/51">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<foaf:name>paranoia</foaf:name>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">hallucinations auditory,hallucinations visual,agitation,irritable mood,verbal auditory hallucinations,feeling suicidal,suicidal,terrify,neologism,homelessness,energy increased,mood depressed,decompensation,cicatrisation,blackout,loose associations,,,,,,,,,,,,</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/52">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<foaf:name>pancreatitis</foaf:name>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">vomiting,pain abdominal,nausea,pain,diarrhea,stool color yellow,rigor - temperature-associated observation,apyrexial,sore to touch,,,,,,,,,,,,,,,,,,,</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/53">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<foaf:name>incontinence</foaf:name>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">paraparesis,seizure,asthenia,urge incontinence,unconscious state,aura,moody,fear of falling,tremor,spasm,unhappy,syncope,fall,stiffness,unresponsiveness,,,,,,,,,,,,,</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/54">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<foaf:name>paroxysmal dyspnea</foaf:name>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">orthopnea,shortness of breath,dyspnea on exertion,jugular venous distention,rale,pain chest,palpitation,sweat,weight gain,cough,dyspnea,,,,,,,,,,,,,,,,,</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/55">
+	<foaf:name>hernia</foaf:name>
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">pain abdominal,pain,hyperventilation,excruciating pain,gag,nausea,posturing,hemiplegia,sore to touch,haemorrhage,apyrexial,food intolerance,pulse absent,asthenia,mass of body structure,thicken,,,,,,,,,,,,</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/56">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<foaf:name>malignant neoplasm of prostate</foaf:name>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">hematuria,dysesthesia,asthenia,polymyalgia,passed stones,pleuritic pain,guaiac positive,rale,breath sounds decreased,urge incontinence,dysuria,diarrhea,vertigo,qt interval prolonged,ataxia,paresis,hemianopsia homonymous,tumor cell invasion,hemodynamically stable,mass of body structure,rhonchus,orthostasis,decreased body weight,,,,,</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/57">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<foaf:name>edema pulmonary</foaf:name>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">urgency of micturition,shortness of breath,rale,tachypnea,orthopnea,Heberden's node,jugular venous distention,dyspnea,sweat,patient non compliance,chest discomfort,hyperkalemia,sinus rhythm,pain chest,hypotension,wheezing,,,,,,,,,,,,</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/58">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<foaf:name>lymphatic diseases</foaf:name>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">pain,mass of body structure,night sweat,splenomegaly,lesion,chill,decreased body weight,swelling,fever,hyperacusis,fremitus,non-productive cough,egophony,redness,hepatomegaly,fatigue,,,,,,,,,,,,</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/59">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<foaf:name>stenosis aortic valve</foaf:name>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">dyspnea on exertion,syncope,chest discomfort,systolic murmur,sciatica,angina pectoris,pain chest,frothy sputum,bradycardia,shortness of breath,pain,,,,,,,,,,,,,,,,,</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/60">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<foaf:name>malignant neoplasm of breast</foaf:name>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">mass in breast,mass of body structure,paresthesia,retropulsion,erythema,difficulty,lesion,estrogen use,burning sensation,dyspnea,swelling,formication,,,,,,,,,,,,,,,,</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/61">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<foaf:name>schizophrenia</foaf:name>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">hallucinations auditory,hypersomnolence,irritable mood,verbal auditory hallucinations,patient non compliance,agitation,suicidal,worry,hallucinations visual,underweight,homelessness,,,,,,,,,,,,,,,,,</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/62">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<foaf:name>diverticulitis</foaf:name>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">pain abdominal,abscess bacterial,dullness,red blotches,diarrhea,sore to touch,dysuria,pain,vomiting,sinus rhythm,colic abdominal,apyrexial,abdominal tenderness,fever,unsteady gait,thicken,urgency of micturition,anorexia,monoclonal,constipation,,,,,,,,</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/63">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<foaf:name>overload fluid</foaf:name>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">rale,jugular venous distention,hyperkalemia,orthopnea,shortness of breath,drowsiness,weight gain,hypokalemia,hypotension,swelling,distended abdomen,,,,,,,,,,,,,,,,,</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/64">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<foaf:name>ulcer peptic</foaf:name>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">pain abdominal,paraparesis,nausea,vomiting,polymyalgia,out of breath,pain chest,hemiplegia,gurgle,hunger,apyrexial,nervousness,,,,,,,,,,,,,,,,</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/65">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<foaf:name>osteomyelitis</foaf:name>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">pain,redness,prostate tender,fever,difficulty passing urine,sore to touch,swelling,apyrexial,erythema,abscess bacterial,pain foot,urinary hesitation,,,,,,,,,,,,,,,,</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/66">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<foaf:name>gastritis</foaf:name>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">heme positive,pain abdominal,vomiting,disequilibrium,nausea,intoxication,haemorrhage,guaiac positive,pain,decreased body weight,sore to touch,dizziness,,,,,,,,,,,,,,,,</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/67">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<foaf:name>bacteremia</foaf:name>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">fever,chill,flushing,unresponsiveness,indifferent mood,urinoma,vomiting,distended abdomen,hypoalbuminemia,pustule,prostatism,diarrhea,abdominal tenderness,pleuritic pain,decreased translucency,pallor,,,,,,,,,,,,</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/68">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<foaf:name>failure kidney</foaf:name>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">orthopnea,oliguria,slowing of urinary stream,extreme exhaustion,unresponsiveness,hypotension,enuresis,shortness of breath,haemorrhage,prostatism,no status change,bedridden,fatigue,,,,,,,,,,,,,,,</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/69">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<foaf:name>sickle cell anemia</foaf:name>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">breakthrough pain,pain back,pain,shortness of breath,snuffle,pain chest,pain abdominal,hepatosplenomegaly,green sputum,apyrexial,headache,,,,,,,,,,,,,,,,,</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/70">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<foaf:name>failure heart</foaf:name>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">orthopnea,fatigue,dyspnea on exertion,dyspnea,shortness of breath,pansystolic murmur,jugular venous distention,systolic ejection murmur,hypotension,angina pectoris,hypokinesia,,,,,,,,,,,,,,,,,</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/71">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<foaf:name>upper respiratory infection</foaf:name>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">cough,throat sore,wheezing,shortness of breath,labored breathing,fever,stuffy nose,non-productive cough,snuffle,indifferent mood,egophony,barking cough,polymyalgia,pleuritic pain,night sweat,dyspnea,productive cough,decreased translucency,rhonchus,rapid shallow breathing,apyrexial,noisy respiration,nasal discharge present,emphysematous change,frail,cystic lesion,symptom aggravating factors,hemodynamically stable</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/72">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<foaf:name>hepatitis</foaf:name>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">ascites,spontaneous rupture of membranes,tachypnea,pain abdominal,pruritus,anorexia,transaminitis,projectile vomiting,chill,distress respiratory,fever,vomiting,,,,,,,,,,,,,,,,</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/73">
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">shortness of breath,Stahli's line,heavy legs,breath sounds decreased,neck stiffness,dyspnea on exertion,cyanosis,hypotension,left atrial hypertrophy,,,,,,,,,,,,,,,,,,,</resulting>
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<foaf:name>hypertension pulmonary</foaf:name>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/74">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<foaf:name>deglutition disorder</foaf:name>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">paresthesia,titubation,dysarthria,painful swallowing,hoarseness,stridor,spasm,asthenia,dysdiadochokinesia,ataxia,achalasia,decreased body weight,stiffness,lesion,side pain,,,,,,,,,,,,,</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/75">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<foaf:name>gout</foaf:name>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">hot flush,pain,redness,swelling,erythema,emphysematous change,sore to touch,hypokinesia,ascites,patient non compliance,,,,,,,,,,,,,,,,,,</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/76">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<foaf:name>thrombocytopaenia</foaf:name>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">ecchymosis,monocytosis,posterior rhinorrhea,haemorrhage,tachypnea,fever,pruritus,hypotension,fatigue,,,,,,,,,,,,,,,,,,,</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/77">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<foaf:name>hypoglycemia</foaf:name>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">unresponsiveness,hypothermia, natural,incoherent,qt interval prolonged,lameness,unconscious state,clammy skin,polyuria,distress respiratory,hypotension,,,,,,,,,,,,,,,,,</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/78">
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">mediastinal shift,fever,clonus,mental status changes,decreased translucency,unresponsiveness,extreme exhaustion,stupor,seizure,transaminitis,hemiplegia,cough,gurgle,pain,diarrhea,pain abdominal,,,,,,,,,,,,</resulting>
+	<foaf:name>pneumonia aspiration</foaf:name>
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/79">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<foaf:name>colitis</foaf:name>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">fever,thicken,green sputum,vomiting,nausea and vomiting,awakening early,pain,nausea,chill,tenesmus,urge incontinence,pain abdominal,hemodynamically stable,,,,,,,,,,,,,,,</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/80">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<foaf:name>diverticulosis</foaf:name>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">fecaluria,constipation,abscess bacterial,heme positive,lightheadedness,diarrhea,haemorrhage,pain,projectile vomiting,pneumatouria,cystic lesion,anorexia,nausea,feeling suicidal,feeling hopeless,,,,,,,,,,,,,</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/81">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<foaf:name>suicide attempt</foaf:name>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">hallucinations auditory,sleeplessness,suicidal,motor retardation,weepiness,unable to concentrate,todd paralysis,worry,fatigue,tremor,alcoholic withdrawal symptoms,agitation,unresponsiveness,blackout,withdraw,difficulty,irritable mood,sensory discomfort,drowsiness,formication,unconscious state,fever,cough,,,,,</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/82">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<foaf:name>Pneumocystis carinii pneumonia</foaf:name>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">yellow sputum,cachexia,chill,decreased body weight,productive cough,myalgia,diarrhea,neck stiffness,hacking cough,dyspareunia,hypokalemia,dyspnea on exertion,poor dentition,transaminitis,non-productive cough,headache,floppy,spontaneous rupture of membranes,,,,,,,,,,</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/83">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<foaf:name>hepatitis B</foaf:name>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">inappropriate affect,tachypnea,yellow sputum,projectile vomiting,poor feeding,pain abdominal,abdominal tenderness,wheelchair bound,moan,,,,,,,,,,,,,,,,,,,</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/84">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<foaf:name>parkinson disease</foaf:name>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">achalasia,fall,stiffness,withdraw,agitation,hemiplegia,difficulty,unresponsiveness,syncope,facial paresis,orthostasis,worry,drowsiness,hematuria,tremor,night sweat,mass of body structure,,,,,,,,,,,</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/85">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<foaf:name>lymphoma</foaf:name>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">lesion,fever,welt,transaminitis,decreased body weight,ataxia,tinnitus,hydropneumothorax,superimposition,haemoptysis,fatigue,polydypsia,difficulty passing urine,,,,,,,,,,,,,,,</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/86">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<foaf:name>hyperglycemia</foaf:name>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">sore to touch,pruritus,feeling strange,pustule,cushingoid facies,decreased body weight,mood depressed,estrogen use,wheezing,ascites,seizure,,,,,,,,,,,,,,,,,</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/87">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<foaf:name>encephalopathy</foaf:name>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">uncoordination,asterixis,haemorrhage,drowsiness,absences finding,posturing,aura,tonic seizures,debilitation,consciousness clear,unresponsiveness,thicken,hypokinesia,,,,,,,,,,,,,,,</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/88">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<foaf:name>tricuspid valve insufficiency</foaf:name>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">shortness of breath,pain,vomiting,nausea,bradycardia,pain abdominal,fever,cicatrisation,mediastinal shift,impaired cognition,,,,,,,,,,,,,,,,,,</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/89">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<foaf:name>Alzheimer's disease</foaf:name>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">drool,agitation,nightmare,rhonchus,consciousness clear,pin-point pupils,bedridden,frail,tremor resting,hyperkalemia,facial paresis,groggy,muscle twitch,wheelchair bound,tremor,cough,fever,,,,,,,,,,,</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/90">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<foaf:name>candidiasis</foaf:name>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">diarrhea,throat sore,decreased body weight,chill,headache,abdominal tenderness,patient non compliance,photophobia,night sweat,painful swallowing,poor dentition,transaminitis,non-productive cough,adverse reaction,abdominal bloating,,,,,,,,,,,,,</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/91">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<foaf:name>neuropathy</foaf:name>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">asthenia,numbness,nausea and vomiting,awakening early,hydropneumothorax,superimposition,fatigability,tenesmus,pain,slowing of urinary stream,,,,,,,,,,,,,,,,,,</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/92">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<foaf:name>kidney disease</foaf:name>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">shortness of breath,hyperkalemia,pain chest,fever,gravida 0,bleeding of vagina,,,,,,,,,,,,,,,,,,,,,,</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/93">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<foaf:name>fibroid tumor</foaf:name>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">para 2,haemorrhage,abortion,intermenstrual heavy bleeding,muscle hypotonia,previous pregnancies 2,shortness of breath,fever,heartburn,primigravida,abnormally hard consistency,proteinemia,,,,,,,,,,,,,,,,</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/94">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<foaf:name>glaucoma</foaf:name>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">fall,distended abdomen,unsteady gait,paresthesia,hyponatremia,agitation,unconscious state,burning sensation,lesion,mass of body structure,,,,,,,,,,,,,,,,,,</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/95">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<foaf:name>neoplasm metastasis</foaf:name>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">thicken,tumor cell invasion,metastatic lesion,pain neck,lung nodule,pain,pain abdominal,food intolerance,mass of body structure,atypia,,,,,,,,,,,,,,,,,,</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/96">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<foaf:name>malignant tumor of colon</foaf:name>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">lesion,prostatism,constipation,general discomfort,diarrhea,pain abdominal,urinary hesitation,dizzy spells,shooting pain,bradycardia,vomiting,systolic ejection murmur,nausea,hyperemesis,polydypsia,,,,,,,,,,,,,</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/97">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<foaf:name>ketoacidosis diabetic</foaf:name>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">polyuria,vomiting,nausea,pain abdominal,milky,feeling strange,gurgle,nervousness,abdominal tenderness,regurgitates after swallowing,vision blurred,urinary hesitation,diarrhea,seizure,aura,,,,,,,,,,,,,</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/98">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<foaf:name>tonic-clonic epilepsy</foaf:name>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">drowsiness,lip smacking,myoclonus,tremor,phonophobia,rolling of eyes,sleepy,hirsutism,moody,muscle twitch,unresponsiveness,headache,ambidexterity,absences finding,spasm,decreased body weight,tumor cell invasion,,,,,,,,,,,</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/99">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<foaf:name>malignant neoplasms</foaf:name>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">pulsus paradoxus,gravida 10,mass of body structure,lesion,heartburn,night sweat,thicken,chill,decreased translucency,pain abdominal,dullness,food intolerance,distress respiratory,hypotension,,,,,,,,,,,,,,</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/100">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<foaf:name>respiratory failure</foaf:name>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">hemiplegia,snore,unresponsiveness,productive cough,dyspnea,tachypnea,hyperkalemia,hypokinesia,sinus rhythm,general unsteadiness,bruit,consciousness clear,shortness of breath,lesion,redness,,,,,,,,,,,,,</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/101">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<foaf:name>melanoma</foaf:name>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">mass of body structure,paraparesis,fever,gravida 0,pain,pruritus,mass in breast,vomiting,diarrhea,,,,,,,,,,,,,,,,,,,</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/102">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<foaf:name>gastroenteritis</foaf:name>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">pain abdominal,breath-holding spell,nausea,decreased body weight,sore to touch,scleral icterus,fever,myalgia,hyponatremia,retch,mass of body structure,decreased body weight,,,,,,,,,,,,,,,,</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/103">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<foaf:name>malignant neoplasm of lung</foaf:name>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">lesion,cough,lung nodule,shortness of breath,haemoptysis,debilitation,gurgle,ache,rale,night sweat,decreased translucency,asthenia,metastatic lesion,agitation,irritable mood,,,,,,,,,,,,,</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/104">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<foaf:name>manic disorder</foaf:name>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">energy increased,suicidal,hypersomnia,feeling suicidal,blanch,hallucinations auditory,hallucinations visual,elation,verbal auditory hallucinations,feeling hopeless,difficulty,decompensation,verbally abusive behavior,suicidal,feeling suicidal,,,,,,,,,,,,,</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/105">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<foaf:name>personality disorder</foaf:name>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">nightmare,feeling hopeless,transsexual,hallucinations auditory,irritable mood,sleeplessness,agitation,weepiness,mood depressed,scratch marks,nausea and vomiting,extreme exhaustion,side pain,worry,enuresis,homelessness,nervousness,ascites,pruritus,,,,,,,,,</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/106">
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">mass of body structure,splenomegaly,lesion,paresis,tumor cell invasion,room spinning,haemorrhage,thicken,indifferent mood,cachexia,hypothermia, natural,pain abdominal,hepatomegaly,hematocrit decreased,stupor,decreased body weight,shortness of breath,cough,,,,,,,,,</resulting>
+	<foaf:name>primary carcinoma of the liver cells</foaf:name>
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/107">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<foaf:name>emphysema pulmonary</foaf:name>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">behavior showing increased motor activity,scar tissue,dyspnea on exertion,coordination abnormal,myalgia,hypercapnia,clammy skin,has religious belief,room spinning,moan,night sweat,cachexia,symptom aggravating factors,dyspnea,rale,flushing,painful swallowing,arthralgia,choke,tenesmus,constipation,,,,,,,</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/108">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<foaf:name>hemorrhoids</foaf:name>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">haemorrhage,bowel sounds decreased,decreased stool caliber,nausea and vomiting,hunger,diarrhea,dizziness,hyponatremia,clonus,pain,achalasia,burning sensation,guaiac positive,numbness of hand,wheezing,cough,,,,,,,,,,,,</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/109">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<foaf:name>spasm bronchial</foaf:name>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">shortness of breath,scar tissue,apyrexial,no known drug allergies,pain,productive cough,throat sore,dyspnea,chest tightness,hypoxemia,tachypnea,sensory discomfort,fever,vomiting,rhonchus,hemiplegia,fremitus,,,,,,,,,,,</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/110">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<foaf:name>aphasia</foaf:name>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">clonus,egophony,facial paresis,aphagia,muscle twitch,paralyse,low back pain,charleyhorse,,,,,,,,,,,,,,,,,,,,</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/111">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<foaf:name>obesity morbid</foaf:name>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">out of breath,sedentary,angina pectoris,cough,unhappy,labored breathing,hypothermia, natural,dyspnea,hematocrit decreased,wheezing,hypoxemia,renal angle tenderness,feels hot/feverish,,,,,,,,,,,,,,</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/112">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<foaf:name>pyelonephritis</foaf:name>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">fever,pain,urgency of micturition,hematuria,vomiting,chill,diarrhea,nausea,pain abdominal,myalgia,fever,chill,,,,,,,,,,,,,,,,</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/113">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<foaf:name>endocarditis</foaf:name>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">pleuritic pain,thicken,myalgia,apyrexial,night sweat,flare,shortness of breath,orthopnea,abscess bacterial,hypotension,cough,metastatic lesion,breath sounds decreased,decreased body weight,Â ,pulsus paradoxus,hypokinesia,,,,,,,,,,,</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/114">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<foaf:name>effusion pericardial</foaf:name>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">pericardial friction rub,dyspnea,shortness of breath,hemodynamically stable,cardiomegaly,hypotension,sputum purulent,facial paresis,pain,oliguria,blackout,intoxication,,,,,,,,,,,,,,,,</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/115">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<foaf:name>chronic alcoholic intoxication</foaf:name>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">tremor,hallucinations auditory,suicidal,hoard,irritable mood,feeling hopeless,feeling suicidal,neologism,seizure,homelessness,sleeplessness,unconscious state,panic,breath sounds decreased,shortness of breath,,,,,,,,,,,,,</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/116">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<foaf:name>pneumothorax</foaf:name>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">dyspnea,cardiovascular finding,haemoptysis,cough,hypercapnia,soft tissue swelling,prostatism,agitation,,,,,,,,,,,,,,,,,,,,</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/117">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<foaf:name>delirium</foaf:name>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">unsteady gait,withdraw,hyponatremia,verbally abusive behavior,feeling suicidal,unresponsiveness,worry,drowsiness,hallucinations auditory,suicidal,fever,diarrhea,,,,,,,,,,,,,,,,</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/118">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<foaf:name>neutropenia</foaf:name>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">transaminitis,splenomegaly,night sweat,apyrexial,lesion,snuffle,chill,cough,monoclonal,hypocalcemia result,oliguria,rhd positive,distress respiratory,,,,,,,,,,,,,,,</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/119">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<foaf:name>hyperbilirubinemia</foaf:name>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">cyanosis,tachypnea,para 1,bradycardia,breech presentation,cushingoid facies,cough,myalgia,,,,,,,,,,,,,,,,,,,,</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/120">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<foaf:name>influenza</foaf:name>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">uncoordination,fever,pleuritic pain,snuffle,throat sore,malaise,debilitation,symptom aggravating factors,chill,scleral icterus,nasal flaring,dysuria,lip smacking,headache,sneeze,snore,green sputum,shortness of breath,distress respiratory,blackout,extreme exhaustion,,,,,,,</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/121">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<foaf:name>dependence</foaf:name>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">intoxication,tremor,agitation,suicidal,homelessness,prostatism,lethargy,seizure,muscle twitch,stuffy nose,feeling hopeless,heavy legs,rale,,,,,,,,,,,,,,,</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/122">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<foaf:name>thrombus</foaf:name>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">hypokinesia,anorexia,hypertonicity,shortness of breath,hypoalbuminemia,pruritus,sore to touch,hemodynamically stable,facial paresis,vomiting,stool color yellow,,,,,,,,,,,,,,,,,</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/123">
+	<foaf:name>cholecystitis</foaf:name>
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">moan,nausea,pain abdominal,Murphy's sign,flatulence,colic abdominal,pain,ascites,diarrhea,qt interval prolonged,cardiovascular finding,groggy,sinus rhythm,gasping for breath,constipation,feces in rectum,abnormally hard consistency,,,,,,,,,,,</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/124">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<foaf:name>hernia hiatal</foaf:name>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">pain abdominal,fatigability,prodrome,vomiting,nausea,myalgia,hyponatremia,sore to touch,general discomfort,dyspnea on exertion,asterixis,guaiac positive,numbness of hand,headache,photophobia,,,,,,,,,,,,,</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/125">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<foaf:name>migraine disorders</foaf:name>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">ambidexterity,vomiting,dizziness,numbness,nausea,fever,splenomegaly,,,,,,,,,,,,,,,,,,,,,</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/126">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<foaf:name>pancytopenia</foaf:name>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">hypoproteinemia,fatigue,haemorrhage,fatigability,cushingoid facies,stool color yellow,colic abdominal,,,,,,,,,,,,,,,,,,,,,</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/127">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<foaf:name>cholelithiasis</foaf:name>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">vomiting,nausea,pain abdominal,pain,cushingoid facies,ascites,thicken,sore to touch,diarrhea,apyrexial,palpitation,,,,,,,,,,,,,,,,,</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/128">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<foaf:name>tachycardia sinus</foaf:name>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">left atrial hypertrophy,sweat,alcohol binge episode,pressure chest,scar tissue,cardiovascular finding,orthostasis,shortness of breath,t wave inverted,vomiting,pain abdominal,,,,,,,,,,,,,,,,,</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/129">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<foaf:name>ileus</foaf:name>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">abscess bacterial,abdomen acute,air fluid level,catching breath,abdominal tenderness,nausea,sore to touch,flatulence,diarrhea,mass of body structure,apyrexial,constipation,thicken,gravida 0,pain abdominal,,,,,,,,,,,,,</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/130">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<foaf:name>adhesion</foaf:name>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">flatulence,pain,large-for-dates fetus,para 1,vomiting,lung nodule,breech presentation,shortness of breath,decreased body weight,immobile,unsteady gait,hallucinations visual,feeling suicidal,,,,,,,,,,,,,,,</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/131">
+	<foaf:name>delusion</foaf:name>
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">loose associations,giddy mood,feeling hopeless,agitation,hallucinations auditory,irritable mood,sleeplessness,neologism,homicidal thoughts,disturbed family,worry,decompensation,verbally abusive behavior,catatonia,suicidal,terrify,blackout,weepiness,impaired cognition,irritable mood,agitation,,,,,,,</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/132">
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<foaf:name>affect labile</foaf:name>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">extreme exhaustion,sleeplessness,enuresis,patient non compliance,feeling hopeless,hallucinations visual,bedridden,prostatism,,,,,,,,,,,,,,,,,,,,</resulting>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://127.0.0.1:3333/133">
+	<foaf:name>decubitus ulcer</foaf:name>
+	<rdf:type rdf:resource="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#Disease"/>
+	<resulting xmlns="http://www.semanticweb.org/christine/ontologies/2020/0/mdb#">systolic murmur,frail,fever,,,,,,,,,,,,,,,,,,,,,,,,,</resulting>
+</rdf:Description>
+
+</rdf:RDF>
