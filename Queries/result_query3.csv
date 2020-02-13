@@ -1,0 +1,625 @@
+lastname,address,phone,specialties
+Dr. Zsuzsanna Palfi,"Vorgartenstraße 206C, 1020 Wien",01/890 45 20,"Hautärztin | Hautärztin,Wahlärztin"
+Dr. Bernd Gmeinhart,"Rembrandtstraße 12/4, 1020 Wien",01/330 45 05,Hautarzt
+Dr. Michael Younan,"Vorgartenstraße 206C, 1020 Wien",01/890 45 20,"Hautarzt | Hautarzt,Wahlarzt"
+Dr. Sigrid Psaier,"Fanny-Mintz-Gasse 3/Top 10, 1020 Wien",01/2123005,"Hautärztin | Hautärztin,Wahlärztin"
+Dr. Josefine Herta Klade,"Praterstraße 56, 1020 Wien",01/212 68 58,Hautärztin
+Dr. Helmut Leonhartsberger,"Praterstraße 10/5, 1020 Wien",01/214 13 86,Hautarzt
+Dr. Anna Gappmayer,"Große Pfarrgasse 23 / 1, 1020 Wien",0660/3254448,"Hautärztin | Hautärztin,Wahlärztin"
+Dr. Ilse Holtenau,"Taborstraße 11A/16, 1020 Wien",01/2124969,Hautärztin
+Dr. Hélène Rottmann,"Thugutstraße 5/21 (Ecke Böcklinstraße 72), 1020 Wien",0664/301 41 85,"Hautärztin | Hautärztin,Wahlärztin"
+Dr. Oliver Kandel,"Zirkusgasse 50, 1020 Wien",01/2120569,Hautarzt
+Dr. Leila Arfaian,"Kleine Stadtgutgasse 6-8/3/18, 1020 Wien",0664/4375467,"Hautärztin | Hautärztin,Wahlärztin u. Privat"
+Prim. Univ.Prof. Dr. Beatrix Volc-Platzer,"Wiesingerstraße 3, 1010 Wien",0676/7064989,"Hautärztin | Hautärztin, Humangenetikerin, Angiologin,Wahlärztin"
+Prim. Dr. Daniel Blagojevic,"Rosenbursenstraße 8/7, 1010 Wien",0677/6203 7767,"Hautarzt | Hautarzt, Angiologe,Wahlarzt"
+Dr. Elisabeth Heere-Ress,"Rotenturmstraße 25/13, 1010 Wien",01/533 44 48,"Hautärztin | Hautärztin, Angiologin"
+"OA Priv. Doz. Dr. Nikolaus Duschek, PhD","Schottengasse 7/5, 1010 Wien",01/236 13 36,"Hautarzt | Hautarzt, Allgemeinchirurg"
+Dr. Heidemarie Schön,"Ledererhof 7/2, 1010 Wien",01/513 68 76,"Hautärztin | Hautärztin,Wahlärztin"
+Dr. Roberto Reimann,"Kohlmarkt 5, 1010 Wien",01/5326272,"Hautarzt | Hautarzt,Wahlarzt"
+Priv.Doz. Dr. Wolfgang Pöppl,"Schreyvogelgasse 3, 1010 Wien",0664/2282895,"Hautarzt | Hautarzt,Wahlarzt"
+MUDr. Slavomira Feix,"Naglergasse 11, 1010 Wien",01/535 465 70,"Hautärztin | Hautärztin,Wahlärztin"
+Univ.Prof. Dr. Eva Maria Kokoschka,"Graben 27-28/2/Top 23, 1010 Wien",01/406 11 38,"Hautärztin | Hautärztin,Wahlärztin"
+Dr. Arno Seeber,"Freyung 6, 1010 Wien",01/535 64 64-8000,"Hautarzt | Hautarzt,Wahlarzt"
+Univ.Prof. Dr. Alexandra Geusau,"Freyung 6, 1010 Wien",01/535 64 64,"Hautärztin | Hautärztin,Wahlärztin"
+Dr. Michael Palatin,"Rotenturmstraße 1/12, 1010 Wien",01/532 24 44,"Hautarzt | Hautarzt,Wahlarzt"
+Dr. Andreas Schindl,"Schreyvogelgasse 4/3, 1010 Wien",0676/370 68 40,"Hautarzt | Hautarzt,Wahlarzt"
+Dr. Judith Hutterer,"Blutgasse 5, 1010 Wien",01/512 28 21,"Hautärztin | Hautärztin,Wahlärztin"
+Dr. Lesanka Mickel,"Babenbergstraße 9/18, 1010 Wien",01/9346820,"Hautärztin | Hautärztin,Wahlärztin"
+Dr. Ursula Zierhofer-Tonar,"Wollzeile 1/1/4/4.5, 1010 Wien",0664/308 76 99,"Hautärztin | Hautärztin,Wahlärztin"
+Dr. Doris Grablowitz,"Seilerstätte 7/ 3.Etage, 1010 Wien",01/512 91 92,"Hautärztin | Hautärztin,Wahlärztin"
+OA Dr. Markus Dawid,"Schottengasse 3-3a/1/42, 1010 Wien",01/533 92 14,"Hautarzt | Hautarzt,Wahlarzt"
+Dr. Leo Richter,"Kärtner Straße 51/3A, 1010 Wien",0660/1698090,Hautarzt
+Dr. Julia Lämmerhirt,"Opernring 4/1/7, 1010 Wien",0699/132 626 91,"Hautärztin | Hautärztin,Wahlärztin u. Privat"
+Dr. Christine Bangert,"Trattnerhof 2, 1010 Wien",01/2363020,"Hautärztin | Hautärztin,Wahlärztin"
+Dr. Marietta Weinmann,"Stoß im Himmel 3/1/3 (Eingang: Passauer Platz 1), 1010 Wien",0676/88771311,"Hautärztin | Hautärztin,Wahlärztin u. Privat"
+Dr. med. univ. Nadine Mothes-Luksch,"Wollzeile 12/2/33, 1010 Wien",01/345 10 10,"Hautärztin | Hautärztin,Wahlärztin"
+Dr. Sibylle Wichlas,"Trattnerhof 2/106-108, 1010 Wien",01/2363020,"Hautärztin | Hautärztin,Wahlärztin u. Privat"
+Dr. Golnaz Delir,"Goldenes Quartier, Seitzergasse 2-4, 1010 Wien",01/3582893,Hautärztin
+Dr. Verena Beck,"Rosengasse 8/2, 1010 Wien",0664/9271271,"Hautärztin | Hautärztin,Wahlärztin u. Privat"
+DDr. Martin Torzicky,"Mahlerstraße 7/15, 1010 Wien",01/2806888,"Hautarzt | Hautarzt,Wahlarzt u. Privat"
+Mag. Dr. Elke Janig,"Goldenes Quartier, Seitzergasse 2-4, 1010 Wien",01/3582893,"Hautärztin | Hautärztin,Wahlärztin u. Privat"
+Ao. Univ.Prof. Dr. Tamara Kopp,"Trattnerhof 2/106-108, 1010 Wien",01/2363020,"Hautärztin | Hautärztin,Wahlärztin"
+Dr. Kaan Harmankaya,"Palais Kinsky, Freyung 4/17,  3. Stock, 1010 Wien",01/532 04 79,"Hautarzt | Hautarzt,Privat"
+Dr. Katja Schindler,"Goethegasse 3/3D, 1010 Wien",0660/6918713,"Hautärztin | Hautärztin, Schwerpunkt: Ästhetische Medizin,Wahlärztin u. Privat"
+Dr. Kathrin Güven,"Baumannstraße 4/6, 1030 Wien",01/713 73 78,"Hautärztin | Hautärztin, Angiologin"
+Dr. Nikolaus Lilgenau,"Wassergasse 14/13, 1030 Wien",01/7140432,Hautarzt
+Dr. Eva Maria Kindermann-Glebowski,"Beatrixgasse 16/6, 1030 Wien",01/7126477,Hautärztin
+Dr. Parissa Mastan,"Landstraßer Hauptstraße 123/5, 1030 Wien",01/712 31 72,Hautärztin
+Dr. Karla Roka,"Marxergasse 7/10, 1030 Wien",01/7137084,"Hautärztin | Hautärztin,Wahlärztin"
+Univ.Prof. Dr. Florian Roka,"Marxergasse 7/10, 1030 Wien",01/713 70 84,"Hautarzt | Hautarzt,Wahlarzt"
+Dr. Igor Vujic,"Hintzerstraße 10/6, 1030 Wien",01/710 3826,"Hautarzt | Hautarzt,Wahlarzt"
+Dr. Babak Adib,"Am Heumarkt 3/1/16, 1030 Wien",0676/3641042,"Hautarzt | Hautarzt,Privat"
+"Prim. Dr. Gerhard Mooseder, ObstA","Göllnergasse 2-4/2/13, 1030 Wien",0676/597 47 22,"Hautarzt | Hautarzt,Wahlarzt"
+Dr. Alexandra Wanka,"Erdbergstraße 52-60/Stiege 2/Top1a, 1030 Wien",0660/1133886,"Hautärztin | Hautärztin,Wahlärztin"
+Dr. Nikolaus Schaumann,"Beatrixgasse 3A/11, 1030 Wien",0676/5166638,"Hautarzt | Hautarzt, Praktischer Arzt,Wahlarzt"
+Univ.Prof. Dr. Kurt Walter Mach,"Brucknerstraße 4, 1040 Wien",01/5057455,"Hautarzt | Hautarzt, Labordiagnostiker,Wahlarzt"
+Dr. Gerhard Lindeck-Pozza,"Südtiroler Platz 2/11/17, 1040 Wien",01/5034110,"Hautarzt | Hautarzt,Wahlarzt"
+Dr. Lorenz Reiterer,"Blechturmgasse 26/6, 1040 Wien",01/505 34 83,Hautarzt
+Dr. Shahrouz Noori,"Gußhausstraße 10/21, 1040 Wien",01 / 9928427,Hautarzt
+OMR Dr. Wilhelm Brenner,"Margaretenstraße 72, 1050 Wien",01/586 61 61,Hautarzt
+Dr. Rolf Gregor Fialla,"Bürgerspitalgasse 21/7, 1060 Wien",01/596 23 77,Hautarzt
+Dr. Gabriele Hobisch,"Linke Wienzeile 6/11, 1060 Wien",01/5863204,Hautärztin
+Univ.Doz. Dr. Harald Maier,"Mariahilfer Straße 89a/25, 1060 Wien",01/585 34 40,"Hautarzt | Hautarzt,Wahlarzt"
+Dr. Ligia Teban-Bedenicki,"Mariahilfer Straße 115, 1060 Wien",01/596 34 06,Hautärztin
+Dr. Johanna Latzka,"Gumpendorfer Straße 95/9, 1060 Wien",01/2662191,"Hautärztin | Hautärztin,Wahlärztin"
+Dr. Antonia Weinstabl-Schuh,"Otto-Bauer-Gasse 15/8, 1060 Wien",01/595 35 00,"Hautärztin | Hautärztin,Wahlärztin"
+Dr. Paul Leyen,"Gumpendorfer Straße 18/14, 1060 Wien",01/5814770,"Hautarzt | Hautarzt, Schwerpunkt: Ästhetische Medizin, Infektiologe u. Tropenmediziner,Wahlarzt u. Privat"
+Dr. Margit Meidinger,"Mariahilfer Straße 95/1/19, 3.Stock, 1060 Wien",01 / 99 744 81,"Hautärztin | Hautärztin,Wahlärztin"
+Dr. Ines Bonelli,"Mariahilferstrasse 47/5/10, 1060 Wien",01/5811619,"Hautärztin | Hautärztin,Wahlärztin"
+Ao.Univ.Prof. Dr. Adrian N. Tanew-Ilitschew,"Lerchenfelder Straße 125/7, 1070 Wien",0699/182 30 046,"Hautarzt | Hautarzt,Wahlarzt"
+Priv.Doz. Dr. Sonja Radakovic,"Lerchenfelder Straße 125/7, 1070 Wien",0699/12400524,"Hautarzt | Hautarzt,Wahlarzt"
+Dr. Alice Pinc,"Stiftgasse 21/17, 1070 Wien",0699/18 10 34 95,"Hautärztin | Hautärztin,Wahlärztin"
+Dr. Gerold Lang,"Gutenberggasse 7/1, 1070 Wien",01/522 39 30 ,"Hautarzt | Hautarzt,Wahlarzt"
+Dr. Ingrid Kaltenegger,"Lindengasse 37 Tür 7, 1070 Wien",01/890 54 22,Hautärztin
+Dr. Julia García Reitböck,"Mariahilfer Straße 114/ Stiege 2/ Top 2, 1070 Wien",01/36 19 939,"Hautärztin | Hautärztin,Wahlärztin u. Privat"
+Dr. Markus Kristen,"Lindengasse 37/8, 1070 Wien",01/524 97 97,"Hautarzt | Hautarzt,Wahlarzt"
+Dr. Hubert Carl Wilfert,"Kaiserstraße 62/6, 1070 Wien",01/52337990,Hautarzt
+OA Dr. Alexander Trost,"Schottenfeldgasse 45, 1070 Wien",0660/8863688,Hautarzt
+OA Dr. Andreas Stepan,"Mariahilfer Straße 62/25, 1070 Wien",0699/12732435,"Hautarzt | Hautarzt,Wahlarzt u. Privat"
+Univ.Prof. Dr. Andreas Steiner,"Bennoplatz 5, 1080 Wien",01/407 09 10,"Hautarzt | Hautarzt, Angiologe,Wahlarzt"
+OÄ Dr. Claudia Hock,"Lederergasse 2/6, 1080 Wien",0664/3641354,"Hautärztin | Hautärztin, Angiologin,Wahlärztin"
+Univ.Prof. Dr. Sanja Schuller-Petrovic,"Alser Straße 47/20, 1080 Wien",01/402 15 16,"Hautärztin | Hautärztin, Angiologin,Wahlärztin"
+Dr. Katja Schindler,"Skodagasse 32, 1080 Wien",0660/6918713,"Hautärztin | Hautärztin, Schwerpunkt: Ästhetische Medizin,Wahlärztin u. Privat"
+Univ.Prof. Dr. Robert Loewe,"Skodagasse 32, 1080 Wien",01/40114-5701,"Hautarzt | Hautarzt,Wahlarzt"
+Univ.Prof. Dr. Ichiro Okamoto,"Skodagasse 32, 1080 Wien",01/401145701,"Hautarzt | Hautarzt,Wahlarzt u. Privat"
+Dr. Jirina Bodnar,"Josefstädter Straße 3/1/4/5, 1080 Wien",01/4069941,Hautärztin
+Dr. Azadeh Tajmir-Riahi,"Josefstädter Straße 51, 1080 Wien",0678/131 35 47,"Hautärztin | Hautärztin,Wahlärztin"
+Dr. Nadine Reiter,"Lange Gasse 67/9, 1080 Wien",01/4020585,"Hautärztin | Hautärztin,Wahlärztin u. Privat"
+Dr. Daniela Wechdorn,"Bennoplatz 5/8, 1080 Wien",01/4083799,Hautärztin
+Dr. Spiro Silvester Schuller,"Alser Straße 47/20, 1080 Wien",01/4086733,"Hautarzt | Hautarzt, Schwerpunkt: Ästhetische Medizin,Wahlarzt u. Privat"
+Oberarzt Dr. Peter Maximilian Heil,"Josefstädter Straße 101/25-26, 1080 Wien",0664/73106976,"Hautarzt | Hautarzt,Wahlarzt u. Privat"
+Univ.Doz. Dr. Kornelia Böhler-Sommeregger,"Severingasse 1/4, 1090 Wien",0664/308 23 75,"Hautärztin | Hautärztin, Angiologin,Wahlärztin"
+Dr. Christa Forstinger,"Seegasse 2/5, 1090 Wien",01/319 90 20,"Hautärztin | Hautärztin, Angiologin"
+Univ.Prof. Dr. Klaus Wolff,"Günthergasse 1, 1090 Wien",01/406 41 83,"Hautarzt | Hautarzt, Angiologe,Wahlarzt"
+Dr. Nicolaus Sandor,"Nußdorfer Straße 20/II/19, 1090 Wien",01/319 56 55,Hautarzt
+Dr. Magdalena Baumgartner,"Sensengasse 3/1, 1090 Wien",01/406 11 21-560,"Hautärztin | Hautärztin,Wahlärztin"
+Dr. Katharina Spängler,"Garnisongasse 7/13, 1090 Wien",01/4022222,"Hautärztin | Hautärztin,Wahlärztin"
+Ao. Univ.-Prof. Dr. Elisabeth Riedl,"Mariannengasse 24/1/5, 1090 Wien",01/405 46 54,"Hautärztin | Hautärztin,Wahlärztin"
+OA Dr. Detlev Pirkhammer,"Berggasse 4/9, 1090 Wien",01/409 49 86,Hautarzt
+OA Priv.Doz. Dr. Christine Hafner,"Sensengasse 3, 1090 Wien",01/406 112 12 22,"Hautärztin | Hautärztin,Wahlärztin"
+OA Dr. Felix Weihsengruber,"Günthergasse 2/6, 1090 Wien",01/406 07 88,"Hautarzt | Hautarzt,Wahlarzt"
+Assoc. Prof. Priv. Doz. Dr. Stanislava Tzaneva,"Severingasse 1/4, 1090 Wien",0699/118 886 59,"Hautärztin | Hautärztin,Wahlärztin"
+Dr. Josef Mahra,"Liechtensteinstraße 143-145/20, 1090 Wien",01/402 49 62,"Hautarzt | Hautarzt,Wahlarzt"
+Univ.Prof. Dr. med. univ. Georg Stingl,"Lazarettgasse 25 / 1. Stock, 1090 Wien",01/401801550,"Hautarzt | Hautarzt, Immunologe,Wahlarzt"
+Univ.Prof. Dr. Harald Kittler,"Mariannengasse 24/1/5, 1090 Wien",01/405 46 54,"Hautarzt | Hautarzt,Wahlarzt"
+Dr. Istvan Sandor,"Nußdorfer Straße 20/II/19, 1090 Wien",01/319 56 55,"Hautarzt | Hautarzt,Wahlarzt"
+Dr. Beatrix Szimák - Hupfer,"Lazarettgasse 25 / 2.Stock, 1090 Wien",01/3688448,"Hautärztin | Hautärztin,Wahlärztin"
+Dr. Andrea Weihsengruber,"Günthergasse 2/6, 1090 Wien",01/406 07 88,"Hautärztin | Hautärztin,Wahlärztin"
+Prim. Dr. Dorota Steffanson,"Spitalgasse 1a, 1090 Wien",01/4063499,"Hautärztin | Hautärztin,Wahlärztin"
+Dr. Hannes Trattner,"Währinger Straße 39, 1090 Wien",01/358 83 40,"Hautarzt | Hautarzt,Wahlarzt u. Privat"
+Dr. Barbara Franz,"Kolingasse 15/1, 1090 Wien",01/3480333,"Hautärztin | Hautärztin,Wahlärztin u. Privat"
+Dr. Alexander Lendel,"Niederhofstraße 39, 1120 Wien",01/8174993,"Hautarzt | Hautarzt,Wahlarzt"
+Dr. Martin Fuchsbauer,"Schönbrunner Straße 153, 1120 Wien",01/990 51 65,"Hautarzt | Hautarzt,Wahlarzt"
+Dr. Markus Neumann,"Arndtstraße 77/2, 1120 Wien",01/8105470,"Hautarzt | Hautarzt,Wahlarzt"
+Dr. Friedrich Anton Brauner,"Edelsinnstraße 8, 1120 Wien",01/813 10 03,Hautarzt
+Dr. Eva Zonzits,"Schöpfwerk 64/14/1, 1120 Wien",01/662 24 03,"Hautärztin | Hautärztin,Wahlärztin"
+Dr. Maria Anna Pelzl,"Eichenstraße 20, 1120 Wien",01/8101313,Hautärztin
+Dr. Sabine Schwarz,"Niederhofstraße 39, 1120 Wien",01/8174993,Hautärztin
+Dr. Jakob Schnedl,"Schallergasse 37/1-4, 1120 Wien",01/890 35 70,Hautarzt
+Dr. Wolfgang Mayer,"Ada Christen-Gasse 2/C/4/20 - Eingang Stiege D, 1100 Wien",01/688 21 93,"Hautarzt | Hautarzt, Angiologe"
+MR Dr. Christine Ziegler,"Columbusplatz 7-8/2/4. Stock, 1100 Wien",01/6065656,Hautärztin
+Dr. Philipp Feuerstein,"Laxenburger Straße 28/2/25, 1100 Wien",01/6002232,"Hautarzt | Hautarzt,Wahlarzt"
+Dr. Michael Steyrer,"Quellenplatz 4, 1100 Wien",01/604 83 00,Hautarzt
+Priv.Doz. Dr. Christina Kukacka,"Senefeldergasse 5, 1100 Wien",01/6043553,Hautärztin
+Dr. Peter Duschet,"Hintschiggasse 3/2/1, 1100 Wien",01/6150808,Hautarzt
+Dr. Isolde Göttfried,"Favoritenstraße 141, 1100 Wien",01/600 82 00,Hautärztin
+Dr. Henriette Holub-Hoberger,"Landgutgasse 36/2, 1100 Wien",01/890 07 19,Hautärztin
+Dr. Florian Freyschlag,"Antonie-Alt-Gasse 6/2/1, 1100 Wien",01/6040400,Hautarzt
+Dr. Bernadette Vago,"Rotenhofgasse 14, 1100 Wien",01/6030999,"Hautärztin | Hautärztin,Wahlärztin"
+Dr. Johannes Bisschoff,"Gertrude-Fröhlich-Sandner-Straße 13/1, 1100 Wien",0676/682 83 44,"Hautarzt | Hautarzt,Wahlarzt"
+Dr. Marlies Wruhs,"Linzer Straße 385/3, 1140 Wien",01/911 39 05 13,"Hautärztin | Hautärztin, Angiologin,Wahlärztin"
+Dr. Michael Hörner,"Hütteldorfer Straße 117/9, 1140 Wien",01/789 26 54,Hautarzt
+Dr. Marianne Wruhs,"Linzer Straße 385/3, 1140 Wien",01/9113905,Hautärztin
+Dr. Sebastian Reischle,"Hütteldorfer Straße 355/2, 1140 Wien",01/9148348,Hautarzt
+Mag. Dr. Helga Löw-Weiser,"St. Veit-Gasse 56/2/2, 1130 Wien",01/890 49 27,"Hautärztin | Hautärztin,Wahlärztin"
+Dr. Johannes Raff,"Hietzinger Kai 169, 1130 Wien",0660 / 7410988,"Hautarzt | Hautarzt, Angiologe,Wahlarzt"
+Univ.Prof. Dr. Gabriele Hinterhuber,"Lainzer Straße 132C/5, 1130 Wien",01/932 22 20,"Hautärztin | Hautärztin, Angiologin,Wahlärztin"
+Dr. Nicole Herzog,"Hietzinger Kai 169/ Top 202, 1130 Wien",01/8770479,"Hautärztin | Hautärztin, Angiologin"
+Dr. Claudia Heller-Vitouch,"Lainzerstraße 58, 1130 Wien",01/879 06 23,Hautärztin
+OA Dr. Armin Rieger,"St.-Veit-Gasse 1, 1130 Wien",0664/9200819,"Hautarzt | Hautarzt,Wahlarzt"
+Assoc. Prof. Priv. Doz. Dr. Constanze Jonak,"Hietzinger Hauptstraße 45/1, 1130 Wien",0664/2448384,"Hautärztin | Hautärztin,Wahlärztin"
+Dr. Ulrike Mossbacher,"St. Veitgasse 1, 1130 Wien",0664/3802298,"Hautärztin | Hautärztin,Wahlärztin"
+OA Dr. Robert Feldmann,"Veitingergasse 20, 1130 Wien",01/879 42 40,"Hautarzt | Hautarzt,Wahlarzt"
+Dr. Patricia Gill-Figwer,"Lainzer Straße 139, 1130 Wien",01/804 55 03,Hautärztin
+Dr. Clemens Frisee,"Hietzinger Hauptstrasse 116/4, 1130 Wien",01/876 35 48,"Hautarzt | Hautarzt,Wahlarzt u. Privat"
+Dr. Martina Binder,"Dommayergasse 2, 1130 Wien",01/5321011,"Hautärztin | Hautärztin,Wahlärztin"
+Dr. Reinhard Decker,"Dommayergasse 8, 1130 Wien",01/8772676,Hautarzt
+Dr. Isabella Arnoldner,"Altgasse 11, 1130 Wien",0699/138 122 77 ,"Hautärztin | Hautärztin,Wahlärztin"
+Dr. Martin Mosleh,"Elisabethallee 61-63, 1130 Wien",0660/4283875,Hautarzt
+OÄ Dr. Alina Roda Weiß,"Auhofstraße 123/5, 1130 Wien",0699/10 83 62 80,"Hautärztin | Hautärztin,Wahlärztin"
+Priv.-Doz. Dr. med. Rainer Hügel,"Wattmanngasse 13, Top 1, 1130 Wien",0699/19250423,"Hautarzt | Hautarzt,Wahlarzt"
+Dr. Christian Tögl,"Johnstraße 33/9, 1150 Wien",01/985 43 03,"Hautarzt | Hautarzt, Angiologe"
+Dr. Felix Mayer,"Schweglerstraße 8/2, 1150 Wien",01/98 20 144,"Hautarzt | Hautarzt,Wahlarzt"
+DI DDr. Andreas Lindmaier,"Henriettenplatz 5/6, 1150 Wien",01/8932526,Hautarzt
+Dr. Eva Eggl-Tyl,"Märzstraße 49, 1150 Wien",01/982 46 40,Hautärztin
+Dr. Elisabeth Weeger-Marek,"Mariahilfer Straße 147/9, 1150 Wien",0650/544 70 60,"Hautärztin | Hautärztin,Wahlärztin"
+Dr. Gabriele Demschik,"Gablenzgasse 7-11, 1150 Wien",01/982 93 90,"Hautärztin | Hautärztin,Wahlärztin"
+Dr. Margot Püspök-Schwarz,"Ottakringer Straße 151/Top 1-3, 1160 Wien",01/492 00 55,"Hautärztin | Hautärztin, Angiologin"
+Dr. Elisabeth Sorger,"Neulerchenfelderstraße 17, 1160 Wien",01/4063636,Hautärztin
+Dr. Dragana Reljic,"Herbststraße 26, 1160 Wien",01/409 12 32,Hautärztin
+Dr. Karin Jahn-Bassler,"Schumanngasse 84, 1170 Wien",01/4803010,"Hautärztin | Hautärztin, Angiologin,Wahlärztin"
+Dr. Aglaja Weihs-Zuckermann,"Hormayrgasse 7a, 1170 Wien",01/485 59 82,"Hautärztin | Hautärztin, Angiologin"
+Dr. Norbert Kohrgruber,"Rupertusplatz 3, 1170 Wien",01/4804080,"Hautarzt | Hautarzt, Angiologe,Wahlarzt"
+Dr. Matthias Sittenthaler,"Gilmgasse 5, 1170 Wien",01/4860393,"Hautarzt | Hautarzt, Schwerpunkt: Ästhetische Medizin, Angiologe"
+Dr. Catherine Rebecca Sieghart,"Vollbadgasse 1A, 1170 Wien",0699/11968023,"Hautärztin | Hautärztin,Wahlärztin"
+Dr. Joachim Nordberg,"Dornbacher Straße 21/1/1D/14, 1170 Wien",01/4840884,Hautarzt
+Dr. Kerstin Ortlechner,"Wattgasse 48/2.Stock, 1170 Wien",0676/3526663,"Hautärztin | Hautärztin, Praktische Ärztin,Wahlärztin"
+Dr. Charlotte Grillitsch,"Neuwaldegger Straße 2, 1170 Wien",01/4802494,"Hautärztin | Hautärztin,Wahlärztin u. Privat"
+Priv.-Doz. Dr. Silvia Wessely,"Neuwaldegger Straße 2, 1170 Wien",0676/4006464,"Hautärztin | Hautärztin,Wahlärztin"
+Univ.Prof. Dr. Hubert Pehamberger,"Währinger Straße 132A/10, 1180 Wien",01/4707088,"Hautarzt | Hautarzt, Humangenetiker, Angiologe,Wahlarzt"
+Dr. Barbara Sammernegg,"Gersthofer Straße 125-129/3/1/1, 1180 Wien",01/479 34 55,"Hautärztin | Hautärztin, Angiologin"
+Dr. Gabriele Hienert,"Gentzgasse 20/Stiege 5/Tür 4, 1180 Wien",01/479 69 26,"Hautärztin | Hautärztin, Angiologin"
+Dr. Bernhard Partsch,"Martinstraße 1, 1180 Wien",01/405 14 47,"Hautarzt | Hautarzt, Angiologe,Wahlarzt"
+Univ.Prof. Dr. Herbert Hönigsmann,"Herbeckstraße 67, 1180 Wien",01/4798266,"Hautarzt | Hautarzt,Wahlarzt"
+Univ.Doz. Dr. Helmut Lindemayr,"Scheibenbergstraße 65/3, 1180 Wien",01/4794151,"Hautarzt | Hautarzt,Wahlarzt"
+Dr. Manfred Kremser,"Schöffelgasse 6/6, 1180 Wien",01/4700614,"Hautarzt | Hautarzt,Wahlarzt"
+Univ.Prof. Dr. Christoph Höller,"Währinger Straße 115/14, 1180 Wien",0650/7227229,"Hautarzt | Hautarzt,Wahlarzt"
+OÄ Dr. Ulrike Just,"Gentzgasse 21/2/12, 1180 Wien",0664/15 19 241,"Hautärztin | Hautärztin,Wahlärztin"
+Dr. Christiane Pehamberger-Wolf,"Währinger Straße 132A/10, 1180 Wien",01/4707044,Hautärztin
+Dr. Karoline Stur-Hofmann,"Anton-Frank-Gasse 5/3, 1180 Wien",01/4701721,"Hautärztin | Hautärztin,Wahlärztin u. Privat"
+Dr. Theresa Dani,"Herbeckstraße 2/2/2, 1180 Wien",01/4704400 ,Hautärztin
+Dr. Peri Bergmann-Caucig,"Colloredogasse 1, 1180 Wien",01 / 2350085,"Hautärztin | Hautärztin,Wahlärztin"
+Dr. Christine Hoffmann,"Weißdornweg 8, 1180 Wien",01/5812859,"Hautärztin | Hautärztin, Schwerpunkt: Ästhetische Medizin,Wahlärztin"
+Dr. Brigitte Klein,"Antonigasse 1, 1180 Wien",01/478 79 02,"Hautärztin | Hautärztin,Wahlärztin"
+Dr. Sylvia Orasche,"Währingerstraße 84, 1180 Wien",01/4700506,"Hautärztin | Hautärztin,Wahlärztin"
+Dr. Petra Viznerova-Kräuter,"Leo-Slezak-Gasse 14/6, 1180 Wien",01/4060517,"Hautärztin | Hautärztin,Wahlärztin"
+Prim. Univ.Prof. Dr. Wolfgang Jurecka,"Heiligenstädter Straße 46-48, 1190 Wien",01/360660-5568,"Hautarzt | Hautarzt, Angiologe,Wahlarzt"
+Dr. Gabriele Menzinger,"Heiligenstädter Straße 113/1/3, 1190 Wien",01/367 62 66,"Hautärztin | Hautärztin, Angiologin"
+Dr. Sylvia Holle-Robatsch,"Windhabergasse 11/3, 1190 Wien",0664/320 55 33,"Hautärztin | Hautärztin, Angiologin,Wahlärztin"
+Univ.Prof. Dr. Klemens Rappersberger,"Döblinger Hauptstrasse 22-24, 1190 Wien",01/369 66 76,"Hautarzt | Hautarzt, Humangenetiker, Angiologe,Wahlarzt"
+Dr. Ulrike Blecha-Thalhammer,"Billrothstraße 63/Top 8, 1190 Wien",01/3681233,Hautärztin
+Dr. Barbara Konrad,"Döblinger Hauptstraße 9/15, 1190 Wien",0676/511 73 96,"Hautärztin | Hautärztin,Wahlärztin"
+Univ.Doz. Dr. Friedrich Breier,"Billrothstraße 78, 1190 Wien",01/368 35 55 10,"Hautarzt | Hautarzt,Wahlarzt"
+Dr. Dagmara Ewa Loader,"Heiligenstädter Straße 46-48, 1190 Wien",01/360 66 8010,"Hautärztin | Hautärztin,Wahlärztin"
+Dr. Günther Rainer,"Sonnbergplatz 7, 1190 Wien",0650 / 860 86 01,"Hautarzt | Hautarzt,Wahlarzt"
+Dr. Tom Claus Pustelnik,"Obkirchergasse 41, 1190 Wien",01/328 15 10,Hautarzt
+Assoc. Prof. Priv.Doz. Dr. Julia Valencak,"Heiligenstädter Straße 46-48 / 5. Stock, 1190 Wien",01/ 36 066 80 10,"Hautärztin | Hautärztin,Wahlärztin"
+Dr. med. univ. Christian Fellenz,"Sieveringerstraße 36, 1190 Wien",01/9580855,"Hautarzt | Hautarzt,Wahlarzt u. Privat"
+Dr. Marie-Theres Kasimir,"Heiligenstädter Straße 46-48 (Neubau vis-à-vis Privatklinik Döbling), 1190 Wien",0664/2005051,"Hautärztin | Hautärztin,Wahlärztin"
+Dr. Katharina Ponholzer,"Billrothstrasse 4/4, 1190 Wien",01/ 367 44 26,"Hautärztin | Hautärztin,Wahlärztin u. Privat"
+Dr. Daniela Degen,"Weinberggasse 60/21/R01, 1190 Wien",01/3206167," Hautärztin | Praktische Ärztin, Hautärztin"
+OA Dr. Peter Paul Ponholzer,"Billrothstraße 4, 1190 Wien",01/367 44 26,"Hautarzt | Hautarzt,Wahlarzt"
+Dr. Eveline Groiß,"Simmeringer Hauptstraße 107, 1110 Wien",01/749 37 94,"Hautärztin | Hautärztin, Angiologin"
+Dr. Brigitte Niebauer,"Simmeringer Hauptstraße 106-108/1/2, 1110 Wien",01/7483300,Hautärztin
+Dr. Christian W. Diviak,"Mannswörther Straße 59-61/21, 2320 Mannswörth",01/7068600,"Hautarzt | Hautarzt, Praktischer Arzt,Wahlarzt u. Privat"
+Dr. Clemens Kauer,"Brehmstraße 12/2/7, 1110 Wien",01/7674411,Hautarzt
+Dr. Ingrid Heinrich,"Lorystraße 48/5, 1110 Wien",01/749 41 02,Hautärztin
+Prim. Univ.Prof. Dr. Franz Trautinger,"Dietmayrgasse 1/2/4, 1200 Wien",01/3307010,"Hautarzt | Hautarzt, Angiologe,Wahlarzt"
+Dr. Harald Pircher,"Leithastraße 25, 1200 Wien",01/3305905,Hautarzt
+Dr. Sylvia Perl-Convalexius,"Wallensteinstraße 68-72/3/5, 1200 Wien",01/330 30 90,Hautärztin
+Dr. Elena Hudl,"Leystraße 42, 1200 Wien",01/8906999,Hautärztin
+"Dr. Sabine Stolkovich, MSc.","Pius-Parsch-Platz 1, 2 Stock, Top 9, 1210 Wien",01/2707813,"Hautärztin | Hautärztin, Angiologin"
+Dr. Barbara Borst-Krafek,"Brünner Straße 108/5/5, 1210 Wien",01/2921677,"Hautärztin | Hautärztin, Angiologin"
+Univ.Prof. Dr. Reinhart Jarisch,"Pius-Parsch-Platz 1/3, 1210 Wien",01/2702541,"Hautarzt | Hautarzt,Wahlarzt"
+Dozent Mag. Dr. Stefan Wöhrl,"Pius-Parsch-Platz 1/3, 1210 Wien",01/2702542,"Hautarzt | Hautarzt,Wahlarzt"
+Dr. Monika Saxa-Enenkel,"Pastorstraße 2a/7, 1210 Wien",01/2572146,"Hautärztin | Hautärztin, Tropenmedizinerin"
+Univ.Prof. Dr. Angelika Stary,"Franz Jonas-Platz 8/2/3, 1210 Wien",01/270 72 43-0,Hautärztin
+Dr. Werner Seifert,"Brünner Straße 219/A1/11, 1210 Wien",01/29 42 160,Hautarzt
+Dr. Bahareh Keschavarz,"Wagramer Straße 102/2/4, 1220 Wien",01/202 65 00,"Hautärztin | Hautärztin, Angiologin"
+Dr. Berndt Johann Mühlbauer,"Wagramer Straße 25/2/2/4, 1220 Wien",0664/4569201,"Hautarzt | Hautarzt,Wahlarzt"
+Dr. Manon Der-Petrossian,"Wagramer Straße 152/5/35C, 1220 Wien",01/203 67 25,Hautärztin
+Dr. Markus Willeit,"Stadlauerstraße 62 / 5. OG, 1220 Wien",01/8909530,Hautarzt
+OMR Dr. Gabriele Grabner,"Arnikaweg 117/2/6, 1220 Wien",01/2828722,Hautärztin
+Dr. Daniela Karimian-Teherani,"Langobardenstraße 176/2/2, 1220 Wien",01/285 25 95,Hautärztin
+Dr. Eva-Maria Putz,"Langobardenstraße 126/4/6, 1220 Wien",01/285 51 31,Hautärztin
+Dr. Maren Bolhar-Nordenkampf,"Maria-Tusch-Str. 2/2/1, 1220 Wien",0680 / 2219749,"Hautärztin | Hautärztin,Wahlärztin u. Privat"
+Dr. Verena Lackner,"Kagranerplatz 1-4/ K1 Einkaufszentrum/ Stiege 1/ 5.Stock/ Top 35c, 1220 Wien",0680/5010150,"Hautärztin | Hautärztin,Wahlärztin"
+Dr. Helmut Eichberger,"Grawatschgasse 4/11, 1230 Wien",01/869 01 70,"Hautarzt | Hautarzt, Angiologe"
+Dr. Christian Seidler,"Auf der Schanz 44, 1230 Wien",01/699 90 21,"Hautarzt | Hautarzt, Angiologe"
+Dr. Aynur Aslan,"Porschestraße 29/13, 1230 Wien",01/243 0303,"Hautärztin | Hautärztin, Angiologin"
+Dr. Anna Maria Convalexius,"Endresstraße 125, 1230 Wien",01/889 23 19,Hautärztin
+Dr. Walter Klein,"Breitenfurter Straße 360/1, 1230 Wien",01/8699900,Hautarzt
+Dr. Claudia Marouschek,"Engelshofengasse 6/ A12, 1230 Wien",0676/485 23 09,"Hautärztin | Hautärztin,Wahlärztin"
+Dr. Helga Springinsfeld,"Rathausplatz 5, 2000 Stockerau",02266/62211,"Hautärztin | Hautärztin,Wahlärztin"
+Dr. Manfred Postl,"Brodschildstraße 4, 2000 Stockerau",02266/69711,Hautarzt
+Dr. Michael Thomas Marker,"Hauptplatz 3, 2115 Ernstbrunn",02576/2403,"Hautarzt | Hautarzt,Privat"
+Dr. Anna Pinkowicz,"Eduard Rösch-Straße 35/4, 2000 Stockerau",0676 / 4958986,"Hautärztin | Hautärztin,Wahlärztin"
+Dr. Walter Rabl,"Sparkassegasse 36, 2020 Hollabrunn",02952/30200,Hautarzt
+Priv. Doz. Dr. Maximilian Aichelburg,"Eduard Rösch-Straße 35/4 , 2000  Stockerau",0676/495 89 86 ,"Hautarzt | Hautarzt,Wahlarzt"
+Dr. Alexander Stella,"Michael Wachberger Straße 14, 3430 Tulln",0664/5030344,"Hautarzt | Hautarzt,Wahlarzt"
+Dr. Krista Ainedter,"Rudolf-Buchinger-Str. 31, 3430 Tulln an der Donau",02272/64 25 10,Hautärztin
+Dr. Sylvia Orasche,"Franz Josef Straße 11, 3430 Tulln",02272/61423,"Hautärztin | Hautärztin,Wahlärztin"
+Dr. Margit Kruger,"Dr. Karl Liebleitner Ring 18/1, 2100 Korneuburg",02262/635 35,Hautärztin
+Dr. Martina Aumayr,"Bisamberger Straße 19/4, 2100 Korneuburg",0664/457 66 57,"Hautärztin | Hautärztin,Wahlärztin"
+Univ.Doz. Dr. Peter Neuner,"Kierlinger Straße 19/6, 3400 Klosterneuburg",02243/33488,Hautarzt
+Dr. Monika Fohr,"Stadtplatz 4/12, 3400 Klosterneuburg",0699/108 01 691,"Hautärztin | Hautärztin,Wahlärztin"
+Dr. Christa Erasim,"Stadtplatz 10 - 11 / 1 / 4, 3400 Klosterneuburg",02243/27127,"Hautärztin | Hautärztin,Wahlärztin"
+Dr. Beatrix Scharner,"Schömergasse 1, 3400 Klosterneuburg",0664/242 66 99,"Hautärztin | Hautärztin,Wahlärztin"
+Dr. Astrid Maria Udvardi,"Schrödingergasse 2/1, 2201 Gerasdorf",0681/104 732 92,"Hautärztin | Hautärztin,Wahlärztin"
+Ao.Univ.Prof. Dr. Rainer Kunstfeld,"Währinger Straße 115/14, 1180 Wien Wien",01/4030030,"Hautarzt | Hautarzt,Wahlarzt"
+Dr. Mariella Salomon,"Hauptstrasse 2/3, 2120 Wolkersdorf",0660/1018327,"Hautärztin | Hautärztin,Wahlärztin"
+Dr. Regina Wildling,"Leopold Figl-Gasse 10, 2130 Mistelbach",02572 / 53800,Hautärztin
+Dr. Andrea Gotschim,"Rathausgasse 1-3, 2136 Laa an der Thaya",02522/85600-0,Hautärztin
+Dr. Gertraud Kaufmann,"Hans Kudlich-Gasse 11/1/3, 2230 Gänserndorf",02282/605 20,"Hautärztin | Hautärztin,Wahlärztin"
+Dr. Edith Maria Theresia Gindl,"Hans Kudlich-Gasse 2, 2230 Gänserndorf",02282/60 118,"Hautärztin | Hautärztin,Wahlärztin"
+Dr. Regina Raab,"Bahnstraße 28, 2230 Gänserndorf",02282/5070,Hautärztin
+Dr. Tamara Meissnitzer,"Schlossplatz 10, 2361 Laxenburg",02236/384307,"Hautärztin | Hautärztin,Wahlärztin u. Privat"
+OÄ Dr. Christiane Stöberl,"Pfarrgasse 15, 2340 Mödling",02236/21 552,"Hautärztin | Hautärztin, Angiologin,Wahlärztin"
+Dr. Manuela Jansa,"Hyrtlstraße 30, 2340 Mödling",02236/24240,"Hautärztin | Hautärztin, Angiologin,Wahlärztin"
+Dr. Michael Zloczower,"Badstraße 49, 2340 Mödling",02236/25081,Hautarzt
+Dr. Rainer Zuchristian,"Hauptstraße 24, 2340 Mödling",02236/23 58 10,Hautarzt
+Dr. Erika Ivancic-Brandenberger,"Friedrich-Schiller-Straße 69, 2340 Mödling",02236/24353,Hautärztin
+Dr. Michael Thomas Marker,"Georg Sigl-Straße 30, 2384 Breitenfurt",0660/3893836,"Hautarzt | Hautarzt,Privat"
+Dr. Christine Messeritsch-Fanta,"Neusiedlerstraße 19, 2340 Mödling",02236/866 066,"Hautärztin | Hautärztin,Wahlärztin"
+Dr. Christian W. Diviak,"Hartlgasse 15, 2486 Pottendorf",02623/73147,"Hautarzt | Hautarzt, Praktischer Arzt,Wahlarzt u. Privat"
+"Priv. Doz. Dr. Julia Frühauf, MSc","Hauptstraße 98/2/1, 2344 Maria Enzersdorf",02236/30 40 86-0,"Hautärztin | Hautärztin,Wahlärztin"
+Mag. Dr. Alexandra Fritz,"Neustiftgasse 16, 2352 Gumpoldskirchen",0650/7003019,"Hautärztin | Hautärztin,Wahlärztin"
+Dr. Daniela Filz-Mellek,"Mühlgasse 1, 2353 Guntramsdorf",02236/32 00 48,"Hautärztin | Hautärztin,Wahlärztin"
+OA Priv.Doz. Dr. Hans Skvara,"Veltlinerstraße 2-6/3/3, 2353 Guntramsdorf",0699/19 33 44 31,"Hautarzt | Hautarzt,Wahlarzt"
+Dr. Klaus Guggenberger,"Ehrenbrunnergasse 14/1, 2320 Schwechat",01/707 61 60,Hautarzt
+Dr. Alexander Stella,"Möwenweg 1, 2320 Schwechat / Rannersdorf",01/7014554,"Hautarzt | Hautarzt,Wahlarzt"
+Dr. Martin Zikeli,"Johannesgasse 9, 2372 Gießhübl",0699 / 10900990,"Hautarzt | Hautarzt,Wahlarzt"
+Dr. Theodor Stallmeister,"Hochstraße 17, 2380 Perchtoldsdorf",01/865 27 70,"Hautarzt | Hautarzt,Wahlarzt"
+Dr. Kerstin Beringer-Jäger,"Hochbergstraße 2/3, 2380 Perchtoldsdorf",0676/402 72 71,"Hautärztin | Hautärztin,Wahlärztin"
+Dr. Marietta Weinmann,"Marktplatz 19/2, 2380 Perchtoldsdorf",0676/88771311,"Hautärztin | Hautärztin, Schwerpunkt: Ästhetische Medizin,Wahlärztin u. Privat"
+Univ. Prof. Dr. Franz Karlhofer,"Marktplatz 15, 2380 Perchtoldsdorf",01/8690210,"Hautarzt | Hautarzt,Wahlarzt"
+Dr. Klaus Toblier,"Erzherzog Wilhelm-Ring 1-3/3, 2500 Baden",02252/444 62,"Hautarzt | Hautarzt, Angiologe"
+Dr. Susanne Scholz,"Dörflergasse 45, 2500 Baden",0664/938 42 86,"Hautärztin | Hautärztin, Angiologin,Wahlärztin"
+Dr. Christian Grünwald,"Grundauerweg 15, 2500 Baden",02252/90 100,"Hautarzt | Hautarzt, Angiologe,Wahlarzt"
+Dr. Erik Müller,"Braitnerstraße 36, 2500 Baden",02252/48278,"Hautarzt | Hautarzt,Wahlarzt"
+Dr. Wolfgang Sellner,"Helenenstraße 9, 2500 Baden",02252/424 24,Hautarzt
+Dr. Johannes Zajc,"Kaiser Franz Josef Ring 9, 2500 Baden",02252/852 10,Hautarzt
+Dr. Barbara Mayer,"Kaiser Franz Joseph Ring 26/1, 2500 Baden",02252/254325,Hautärztin
+Dr. Gerda Goëss,"Melkergasse 33/1, 2514 Traiskirchen",0650 / 885 6686,"Hautärztin | Hautärztin,Wahlärztin"
+Dr. Barbara Rosado-Schmidt,"Hauptplatz 17, Arkadia Top 9, 2514 Traiskirchen",02252/254900,"Hautärztin | Hautärztin,Wahlärztin u. Privat"
+Dr. Brigitte Zierhofer,"Bachgasse 2a, 3003 Gablitz",02231/65 200,"Hautärztin | Hautärztin, Praktische Ärztin,Wahlärztin"
+Dr. Franz Heinzl,"Bachgasse 4/2, 3002 Purkersdorf",02231/677 76,"Hautarzt | Hautarzt,Wahlarzt"
+Dr. Florian Honetz,"Linzer Straße 3, 3002 Pukersdorf",02231/64 2 69,Hautarzt
+OA Dr. Walter Scholz,"Postgasse 4, 9500 Villach", 0676/4270918,"Hautarzt | Hautarzt, Angiologe,Wahlarzt"
+Dr. Martina Hörschläger,"Freistädter Straße 283, 4040 Linz",0660/744 0063,"Hautärztin | Hautärztin, Angiologin,Wahlärztin"
+OA Dr. Michael Takacs,"Amlacher Straße 12, 9900 Lienz",0699/185 71 046,"Hautarzt | Hautarzt, Angiologe,Wahlarzt"
+Dr. Peter Johann Preinfalk,"Promenade 11, 4240 Freistadt",07942/73 666,"Hautarzt | Hautarzt,Wahlarzt"
+Dr. Sabine Huber,"Werdenbergerstraße 9a, 6700 Bludenz",05552/63 546,Hautärztin
+Dr. Alexander Rexeisen,"Gösseringlände 7, 9620 Hermagor",04282/251 15,Hautarzt
+Dr. Martha Maria Humer,"Oberfeldstraße 54, 4600 Wels",07242/20 64 54,"Hautärztin | Hautärztin,Wahlärztin"
+Dr. Eva Maria Chwalla,"Lustenauerstrasse 64/1OG/5b, 6850 Dornbirn",05572/890010,"Hautärztin | Hautärztin, Angiologin,Wahlärztin"
+Dr. Adriana Neubauer,"Schwarzottstraße 2/2, 2620 Neunkirchen",02635/62 878,"Hautärztin | Hautärztin, Angiologin"
+Medizinalrat Dr. Herwig Melbinger,"Julius Raab-Promenade 39, 3100 St. Pölten",02742/352095,"Hautarzt | Hautarzt, Angiologe"
+Dr. Vera Kaier,"Joseph-Haydn-Gasse 40, 7000 Eisenstadt",02682/62168,"Hautärztin | Hautärztin,Wahlärztin"
+Dr. Ulrike Wieland,"Ernest-Thun-Straße 12, 5020 Salzburg",0664/88931720,"Hautärztin | Hautärztin,Wahlärztin"
+Dr. Martina Sandhofer,"Leonfeldnerstraße 133, 4040 Linz",0732/75 07 90,"Hautärztin | Hautärztin,Wahlärztin"
+Dr. Beatrix Gasser,"Kochstraße 1, 6020 Innsbruck",0512/560385,"Hautärztin | Hautärztin,Wahlärztin u. Privat"
+Dr. Manfred Wieser,"Johann Wolf Str. 13, 5020 Salzburg",0662/841 226,Hautarzt
+Doz. Dr. Christina Ambros-Rudolph,"Gleisdorfer Gasse 15, 8010 Graz",0316/812699,"Hautärztin | Hautärztin,Wahlärztin"
+Dr. Paul Sietzen,"Nonntaler Hauptstraße 56a, 5020 Salzburg",0662/831 308,Hautarzt
+Dr. Christian Schuster,"Ressavarstraße 64, 8230 Hartberg",0664/541 08  30,"Hautarzt | Hautarzt,Wahlarzt"
+Dr. Soraya Elisabeth Navysany,"St.-Peter-Hauptstraße 50, 8042 Graz",0316/424156,"Hautärztin | Hautärztin,Wahlärztin"
+Dr. Klaudia Fiedler,"Südtirolerstraße 33, 4020 Linz",0732/6005601,"Hautärztin | Hautärztin,Wahlärztin"
+Dr. me. Dipl.-Biol. Michael Ulrich Huesmann,"Kuffergasse 5/ Eingang Salzgasse 8, 5400 Hallein",06245/804 43,Hautarzt
+Dr. Sonja Schweighofer,"Stockhofstraße 3, 4020 Linz",0732/65 80 30,"Hautärztin | Hautärztin,Wahlärztin"
+Dr. Emil Andonov,"Hauptstraße 7A, 4861 Schörfling",07662 / 57056,"Hautarzt | Hautarzt,Wahlarzt"
+"Dr. Martin Barsch, MBA","Starhembergstrasse 12/3, 4020 Linz",0732/797 656,"Hautarzt | Hautarzt,Privat"
+Dr. Gita Gharari,"Grazerstrasse 42, 2700 Wiener Neustadt",02622/27 800,Hautärztin
+Dr. Hannes Trattner,"Hauptstraße 7, 3170 Hainfeld",02764/2610,"Hautarzt | Hautarzt,Wahlarzt u. Privat"
+Dr. Roland Paul Haberl,"Trattengasse 8, 9500 Villach",0680/308 78 15,"Hautarzt | Hautarzt,Wahlarzt"
+Priv.- Doz. Dr. Martin Inzinger,"Kölnhofallee 17, 9300 St.Veit/Glan",04212/33860,"Hautarzt | Hautarzt,Wahlarzt u. Privat"
+Dr. Kristina Semmelweis,"Johann Kodatschstrasse 1, 7000 Eisenstadt",0664/2815850,"Hautärztin | Hautärztin,Wahlärztin"
+Univ.Prof. Dr. Steven Kaddu,"Peter-Rosegger-Straße 115, 8052 Graz",0650/2510771,"Hautarzt | Hautarzt,Wahlarzt"
+Dr. Thomas Untergrabner,"Bahngasse 39, 2700 Wiener Neustadt",0680/2234537,"Hautarzt | Hautarzt, Praktischer Arzt,Wahlarzt u. Privat"
+Dr. Martin Frömmel,"Rathausgasse 16, 4060 Leonding",0732670609,"Hautarzt | Hautarzt,Wahlarzt"
+"Priv.Doz. Dr. Christiane Thallinger, MSc, MBA","Grazerstraße 6, 8850 Murau",03532/45111,"Hautärztin | Hautärztin,Wahlärztin u. Privat"
+OA Dr. Alexander Mlynek,"Hauptplatz 23, 4190 Bad Leonfelden",07213/21122,"Hautarzt | Hautarzt,Wahlarzt u. Privat"
+Dr. Manfred Fiebiger,"Linzer Gasse 4, 5020 Salzburg",0662/87 69 60,Hautarzt
+Dr. Nikolaus Schicher,"Henselstraße 5/ HP, 9020 Klagenfurt",0463/504100,"Hautarzt | Hautarzt,Wahlarzt u. Privat"
+Dr. Helmut Aichinger,"Bahnhofstraße 12, 9020 Klagenfurt",0463/501090,Hautarzt
+Dr. Stefan Werner,"Bergmanngasse 8, 8010 Graz", 0316 /318 872  11,"Hautarzt | Hautarzt,Wahlarzt"
+Univ.Prof. Dr. Laila El Shabrawi-Caelen,"Engelgasse 6/1/Tür 8, 8010 Graz",0664/85 96 604,"Hautärztin | Hautärztin,Wahlärztin"
+Dr. Elena Biricz,"Franz-Kober-Gasse 34a/1, 2700 Wiener Neustadt",02622/27066,"Hautärztin | Hautärztin,Wahlärztin"
+Dr. Andrea Math,"Neustiftgasse 26, 2472 Prellenkirchen",02145/2201,"Hautärztin | Hautärztin,Wahlärztin"
+Dr. Ivo Weidenhoffer,"Teichgasse 1A, 7100 Neusiedl am See",02167/40403,"Hautarzt | Hautarzt,Wahlarzt"
+Dr. Wolfgang Jochmann,"Johngasse 3, 2460 Bruck an der Leitha",02162/661 84,Hautarzt
+Dr. Doris Millendorfer,"Hauptstraße 41a, 2491 Neufeld an der Leitha",02624/548 05,"Hautärztin | Hautärztin,Wahlärztin"
+Dr. Barbara Gilly,"Grazerstraße 37, 2604 Theresienfeld",0676/552 14 84,"Hautärztin | Hautärztin,Wahlärztin"
+Dr. Barbara Kainz,"Hauptstrasse 4, 7000 Eisenstadt",0676/5521484,"Hautärztin | Hautärztin,Wahlärztin"
+Dr. Rosemarie Moser,"Hauptstraße 11, 7000 Eisenstadt",02682/644 49,"Hautärztin | Hautärztin,Wahlärztin"
+Dr. Herbert Weltler,"Hauptstraße 4, 7000 Eisenstadt",02682/65888,Hautarzt
+Dr. Alfred Franz Wand,"Zehnergasse 3, 2700 Wiener Neustadt",02622/844 84,Hautarzt
+Dr. Ludwig Dworak,"Brodtischgasse 28, 2700 Wiener Neustadt",02622/863 99,Hautarzt
+Dr. Astrid Zimmermann,"Badner Straße 8, 2540 Bad Vöslau",0660/730 66 69,"Hautärztin | Hautärztin,Wahlärztin"
+Dr. Barbara Anegg,"Rudolf Reiter Straße 11, 2540 Bad Vöslau",0664/506 87 48,"Hautärztin | Hautärztin,Wahlärztin"
+Dr. Angelika C. Stockreiter,"J.F. Kennedy-Platz 2, 2560 Berndorf",0664/735 13 793,"Hautärztin | Hautärztin,Wahlärztin"
+Dr. Daniela Degen,"Ared Straße 7/2/201, 2544 Leobersdorf",0664/505 93 17,"Hautärztin | Hautärztin,Wahlärztin u. Privat"
+Dr. Maria Kundracikova,"Kirchenplatz 1, 2870 Aspang Markt",02642/514 82,"Hautärztin | Hautärztin,Wahlärztin"
+Dr. Andrea Marchhart,"Martinplatz 4, 7210 Mattersburg",02626/657 83,Hautärztin
+Dr. Daniela Mairhofer-Muri,"Marktplatz 9, 3034 Maria Anzbach",02772/54493,"Hautärztin | Hautärztin, Praktische Ärztin,Wahlärztin u. Privat"
+Dr. Angela Korn,"Rathausplatz 8, 3130 Herzogenburg",02782/81194,Hautärztin
+Dr. Gertrud Fumicz,"Franz-Lettner-Gasse 8, 3160 Traisen",02762/65817,Hautärztin
+Dr. Shabnam Moradi,"Kranzbichlerstraße 47, 3100 St. Pölten",02742/78 358,"Hautärztin | Hautärztin,Wahlärztin"
+Dr. Adelheid Kienzl,"Hötzendorfstraße 4/3-4, 3100 St. Pölten",02742/35 23 69,Hautärztin
+Dr. Michael Strasser,"Dr. Karl Reinthaler-Gasse 8a, 3100 St. Pölten",0676/6753393,"Hautarzt | Hautarzt,Wahlarzt"
+Dr. Werner Roth,"Schreinergasse 9, 3100 St. Pölten",02742/351566,Hautarzt
+Dr. Knut Erich Prillinger,"Grenzgasse 11, 3100 St. Pölten",02742/32307,"Hautarzt | Hautarzt,Wahlarzt"
+OA Dr. Rudolf Moshammer,"Wiener Straße 41, 3100 St. Pölten",0699/10158911,"Hautarzt | Hautarzt,Wahlarzt"
+Mag. Dr. Kerstin Fischer,"Maximilianstraße 52, 3100 St. Pölten",02742/367 478,Hautärztin
+Dr. Peter Jung,"Maximilanstraße 52, 3100 St.Pölten",02742/367478,Hautarzt
+Dr. Eva Mühlbacher,"Rathausgasse 3, 3270 Scheibbs",07482/42461,Hautärztin
+Dr. Ursula Krenn-Wesecky,"Spielbergerstrasse 15, 3390 Melk",0664/3083085,"Hautärztin | Hautärztin,Wahlärztin"
+Dr. Soheila Yousef Elahi,"Josef Adlmanseder-Str. 7, 3390 Melk",02752/51117,Hautärztin
+Dr. Gerhard Kunz,"Kirchengasse 10, 3370 Ybbs an der Donau",07412/533 30,"Hautarzt | Hautarzt,Wahlarzt"
+Dr. Fritz Gruber,"Nikolaus Lenau-Straße 2, 3300 Amstetten",07472/63 933,Hautarzt
+Dr. Nadja Gobara,"Oberer Stadtplatz 32, 3340 Waidhofen an der Ybbs",07442/54 186,"Hautärztin | Hautärztin, Praktische Ärztin,Wahlärztin"
+Priv.Doz. Dr. Paul-Gunther Sator,"Bahnstraße 13, 3701 Großweikersdorf",02955/702 14,"Hautarzt | Hautarzt,Wahlarzt"
+Dr. Karin Raimitz-Kreyer,"Kremser Straße 9, 3550 Langenlois",02734/32 004,"Hautärztin | Hautärztin,Wahlärztin"
+Dr. Ulrich Geppert,"Ringstraße 57, 3500 Krems an der Donau",0676/534 05 03,"Hautarzt | Hautarzt,Wahlarzt"
+Dr. Heide-Gritt Hochmiller-Spaun,"Obere Landstraße 3, 3500 Krems an der Donau",02732/854 94,Hautärztin
+Dr. Susanne Schätz,"Heinemannstraße 6a, 3500 Krems an der Donau",02732/83941,Hautärztin
+Dr. Barbara Beckmann,"Spitalgasse 8a, 3580 Horn",02982/20641,Hautärztin
+Dr. Thomas Erhart,"Vitiser Straße 12, 3830 Waidhofen an der Thaya",02842/51060,"Hautarzt | Hautarzt, Praktischer Arzt,Wahlarzt"
+Dr. Josef Seeberger,"Gerungser Str. 10, 3910 Zwettl",02822/20325,Hautarzt
+Dr. Rudolf Wolf,"Mozartstraße 3, 4020 Linz",0732/782200,"Hautarzt | Hautarzt, Angiologe"
+Dr. Karin Stefanie Lindtner,"Hauptstraße 77, 4040 Linz",0732/73 05 73,Hautärztin
+Dr. Daniella Winter,"Khevenhüllerstraße 23, 4020 Linz",0650/540 20 29,"Hautärztin | Hautärztin,Wahlärztin"
+Dr. Ruth Sandhofer-Novak,"Starhembergstraße 12, 4020 Linz",0732/794633,"Hautärztin | Hautärztin,Wahlärztin"
+Prim. Univ.Doz. Dr. Georg Klein,"Volksfeststraße 2, 4020 Linz",0732/91 88 60,"Hautarzt | Hautarzt,Wahlarzt"
+Dr. Matthias Sandhofer,"Starhembergstraße 12, 4020 Linz",0732/797 656,Hautarzt
+Dr. Reinhard Höfner,"Taubenmarkt 1/Ecke: Domgasse 22, 4020 Linz",0732/784009,Hautarzt
+Dr. Reinhold Kaisergruber,"Saporoshjestraße 3, 4030 Linz",0732/31 40 00,Hautarzt
+Dr. Reingard Hillisch,"Unterer Graben 4, 4070 Eferding",07272/76933,"Hautärztin | Hautärztin,Wahlärztin u. Privat"
+Dr. Franz Wimmer,"Ferdinand Markl-Straße 39/5, 4040 Linz",0732/25 20 64,Hautarzt
+Dr. Gabriele Schachtner,"Ferihumerstraße 44, 4040 Linz",0664/150 14 15,"Hautärztin | Hautärztin,Wahlärztin"
+MR Dr. Johannes Neuhofer,"Wienerstraße 57, 4020 Linz",0732/6520 77,Hautarzt
+Dr. Karin Dunst-Huemer,"Rosenauerstraße 2, 4040 Linz",0732/7321 27,Hautärztin
+Dr. Franz Balouschek,"Landwiedstraße 140, 4020 Linz",0732/377100,Hautarzt
+Dr. Evelyn Durnig,"Scharitzerstraße 3, 4020 Linz",0677/61200206,"Hautärztin | Hautärztin,Wahlärztin"
+Dr. Elisabeth Kowald,"Blumauer Straße 7/2, 4020 Linz",0732/651452,Hautärztin
+Dr. Gerlinde Latzelsperger,"Anton Riepl-Straße 4a, 4210 Gallneukirchen",07235/62244,"Hautärztin | Hautärztin,Wahlärztin"
+Dr. Claudia Maria Bell,"Leondinger Straße 140, 4060 Leonding",0732/674060,Hautärztin
+Dr. Karin Krenmayr,"Kremstalstraße 20, 4050 Traun",07229/74206,Hautärztin
+Dr. Gerald Franz Hinterecker,"Kremstalstraße 20, 4050 Traun",07229/74206,Hautarzt
+OÄ Dr. Ingrid Manuela Keplinger,"Schiferplatz 6, 4070 Eferding",07272/708 88,Hautärztin
+Dr. Katharina Fiala,"Riedegg 1, 4210 Gallneukirchen",0681/20861885,"Hautärztin | Hautärztin,Wahlärztin"
+Dr. Anita Kirchmayr,"Bahnhofstraße 23, 4614 Marchtrenk",07243/54754,Hautärztin
+Dr. Matthias Barta,"Steegenstraße 5, 4722 Peuerbach",0650/8500648,"Hautarzt | Hautarzt,Wahlarzt"
+Dr. Christoph Stelzer,"Mitterfeld 13b, 4150 Rohrbach in Oberösterreich",07289/20722,Hautarzt
+Dr. Kristin Mlynek,"Hauptplatz 23, 4190 Bad Leonfelden",07213 / 21 122,"Hautärztin | Hautärztin,Wahlärztin"
+Dr. Susanne Halmdienst,"Promenade 25, 4240 Freistadt",07942/75434,"Hautärztin | Hautärztin, Angiologin"
+Dr. Birgit Raffier,"Hauptplatz 6, 4470 Enns",07223/81 315,Hautärztin
+Dr. Edith Streinz,"Westbahnstraße 46, 4300 St. Valentin",07435/58888,Hautärztin
+Dr. Franz Singer,"Stifterstraße 6, 4320 Perg",07262/54445,Hautarzt
+Dr. Gernot Mayer,"Dukartstraße 15-17/3, 4400 Steyr",07252/467 46 99,"Hautarzt | Hautarzt,Wahlarzt"
+Dr. Konstantin Sfetsos,"Pachergasse 13, 4400 Steyr",07252/46596,Hautarzt
+Dr. Michele Deutsch,"Hauptplatz 13, 4540 Bad Hall",07258/791 45,"Hautärztin | Hautärztin,Wahlärztin"
+OA Dr. Gernot Lechner,"Steiningerweg 18 / Ärztezentrum Med7, 4600 Wels",0664/138 95 88,"Hautarzt | Hautarzt, Angiologe,Wahlarzt"
+Dr. Christian Brandlmaier,"Reinberghof 2, 4600 Thalheim bei Wels",07242/556 60,Hautarzt
+OÄ Dr. Karin Nittmann,"Römerstraße 80 A, 4600 Wels",0676/32 93 742,"Hautärztin | Hautärztin,Wahlärztin"
+Dr. Patrick Schauer,"Kaiser Franz-Josef-Platz 32, 4600 Wels",0650/417 75 25,"Hautarzt | Hautarzt,Wahlarzt"
+Dr. Walter Waldl,"Ringstraße 4, 4600 Wels",07242/411 83,Hautarzt
+Dr. Josef Raml,"Edisonstraße 2/1, 4600 Wels",07242/909901,Hautarzt
+Prim. Dr. Werner Saxinger,"Grieskirchnerstr. 42, 4600 Wels",0664/5032627,"Hautarzt | Hautarzt,Wahlarzt"
+Dr. Monika Paulik,"Grieskirchner Straße 15, 4600 Wels",07242/590 01,Hautärztin
+Dr. Vera Reinhart,"Knorrstraße 15/B1, 4600 Wels",07242/360 360,"Hautärztin | Hautärztin,Wahlärztin"
+OA Dr. Thomas Berger,"Stadtplatz 29, 4690 Schwanenstadt",07673/40909,"Hautarzt | Hautarzt, Angiologe,Wahlarzt"
+Dr. Horst Berger,"Maximilian-Pagl-Straße 12, 4651 Stadl-Paura",0650/9980932,"Hautarzt | Hautarzt, Angiologe,Wahlarzt"
+Dr. Jutta Popp-Habeler,"Gmundnerstraße 32, 4663 Laakirchen",07613/90802,"Hautärztin | Hautärztin,Wahlärztin"
+Dr. Brigitta Charwat-Pessler,"Uferstraße 4, 4710 Grieskirchen",07248/628 80,Hautärztin
+Dr.med.univ. Brigitte Schober,"Franz Resienbichler Straße 15, 4810 Gmunden",0676/6906010,"Hautärztin | Hautärztin,Wahlärztin"
+Dr. Michael Schierl,"Georgstraße 5, 4810 Gmunden",07612/666 88,Hautarzt
+Dr. Gerald Minimair,"Friedrich Thurner-Straße 16, 4910 Ried im Innkreis",07752/211 55,Hautarzt
+Dr. Behnaz Degreif-Fazeli,"Marktplatz 3, 4910 Ried im Innkreis",07752/81 699,"Hautärztin | Hautärztin,Wahlärztin"
+Mag. Dr. Margit Haab-Kroath,"Roemerstraße 48, 4800 Attnang-Puchheim",07674/66800,Hautärztin
+Dr. Ingrid Füsgen,"Stadtplatz 36, 4840 Vöcklabruck",07672/256 60,Hautärztin
+Dr. Ingrid Kallinger-Wögerbauer,"Max Planckstraße 11, 4840 Vöcklabruck",07672/241 33,Hautärztin
+Dr. Rudolf Ostermaier,"Silberzeile 10, 4780 Schärding Innere Stadt",07712/295 53,Hautarzt
+Dr. Stefan Hinterleitner,"Bauerstraße 6, 4820 Bad Ischl",06132 / 26570,"Hautarzt | Hautarzt,Wahlarzt"
+Dr. Wolfgang Hinterleitner,"Bauerstraße 6, 4820 Bad Ischl",06132/26570,Hautarzt
+Priv. Doz. DDr. Michael Kendler,"Hauptstraße 7A, 4861 Schörfling",07662 / 57056,"Hautarzt | Hautarzt,Wahlarzt"
+Dr. Michael Emberger,"Herzog Odilo-Straße 52, 5310 Mondsee",06232/21888,"Hautarzt | Hautarzt,Wahlarzt"
+Dr. Peter Michael Stöger,"Bahnhofstraße 11-13, 5202 Neumarkt am Wallersee",06216/485 80,Hautarzt
+Dr. Margarete Frauscher,"Herzog-Odilo-Straße 52, 5310 Mondsee",06232 / 21 88 8,"Hautärztin | Hautärztin,Wahlärztin"
+Dr. Nicole Bacher,"Stadtplatz 43, 5280 Braunau am Inn",07722/687 87,Hautärztin
+OA Dr. Dimitri Papadopoulos,"Reichenhallerstraße 7/4, 5020 Salzburg",0662/84791916,"Hautarzt | Hautarzt, Angiologe,Wahlarzt"
+Doz. Dr. Karl Forstner,"Müllner Hauptstraße 48, 5020 Salzburg",0662/4482-3011,"Hautarzt | Hautarzt, Angiologe,Wahlarzt"
+OA Dr. Joseph Koller,"Nonntaler Hauptstraße 112, 5020 Salzburg",0664/133 92 15,"Hautarzt | Hautarzt,Wahlarzt"
+Dr. Walther Nikolaus Klehr,"Sterneckstraße 11, 5020 Salzburg",0662/88 30 80,"Hautarzt | Hautarzt,Wahlarzt"
+Dr. Irmgard Kriechbaum,"Kühbergstraße 36, 5020 Salzburg",0662/64 22 74,"Hautärztin | Hautärztin,Wahlärztin"
+Prim. Univ.Prof. Dr. Johann Bauer,"Dr. Franz Rehrl-Platz 2, 5020 Salzburg",0699/128 146 04,Hautarzt
+Prim. Univ.Prof. MR Dr. Helmuth Klaus Hintner,"Dr. Franz Rehrl-Platz 2, 5020 Salzburg",0662/64 84 48,"Hautarzt | Hautarzt, Humangenetiker,Wahlarzt"
+Dr. Elke Nischler,"Strubergasse 26, 5020 Salzburg",0662/840370,"Hautärztin | Hautärztin,Wahlärztin"
+Dr. Mona Afazel-Schreiber,"Johann-Wolf-Straße 8, 5020 Salzburg",0662/848490,Hautärztin
+Dr. Tillmann Thiel,"Innsbrucker Bundesstraße 35, 5020 Salzburg",0662/9010-1400,"Hautarzt | Hautarzt,Wahlarzt"
+Dr. Christoph Burger,"Alpenstraße 48/1. Stock, 5020 Salzburg",0662/632933,Hautarzt
+Dr. Dorothea Schläpfer,"Berchtesgadner Straße 35B, 5020 Salzburg",0664/8415358,"Hautärztin | Hautärztin,Wahlärztin"
+Dr. Michael Bolzer,"Aignerstraße 35, 5026 Salzburg-Aigen",0662/651777,Hautarzt
+Dr. Xenia Illmer,"Nonntaler Hauptstraße 35, 5020 Salzburg",0662/871233,Hautärztin
+Dr. Gerald Eckstein,"Nonntaler Hauptstraße 112, 5020 Salzburg",0662/82 43 21,Hautarzt
+Dr. Helga Perner,"Gaisbergstraße 18, 5020 Salzburg",0662/64 17 66,Hautärztin
+Dr. Andreas Fabian Hödl,"Wolf-Dietrich-Straße 19, 5020 Salzburg",0662/875770,Hautarzt
+Dr. Nora Eiler,"Linzergasse 4, 5020 Salzburg",0662/876960,Hautärztin
+Dr. Gabriela Oettl,"Franz-Josef-Straße 24, 5020 Salzburg",0662/636655,"Hautärztin | Hautärztin,Wahlärztin"
+Dr. Karin Kaindl-Orasche,"Neutorstraße 26, 5020 Salzburg",0664/841 82 13,"Hautärztin | Hautärztin,Wahlärztin"
+Dr. Handan Odionikhere,"Gaisbergstraße 1/2B, 5161 Elixhausen",0699/10625788,"Hautärztin | Hautärztin,Wahlärztin"
+Dr. Ulrike Lanner,"Steinlandweg 6, 5071 Wals",0662/870000,"Hautärztin | Hautärztin,Wahlärztin"
+Priv.Doz. Dr. Christoph Lanschützer,"Martin-Hell-Straße 7-9, 5422 Bad Dürrnberg",06245/790-0,Hautarzt
+Prim. Dr. Aurel Serban Esca,"Martin-Hell-Straße 7, 5422 Bad Dürrnberg",06245/790410,Hautarzt
+Dr. Michael Sigmund,"Martin Hell Strasse 7-9, 5422 Bad Dürrnberg",0676/4866799,"Hautarzt | Hautarzt,Wahlarzt"
+Dr. Birgitt Hantich-Hladik,"Davisstraße 7, 5400 Hallein",06245/71543 0,Hautärztin
+Dr. Richard Wimmer,"Braunauerstraße 1, 5230 Mattighofen",07742/58226,"Hautarzt | Hautarzt,Wahlarzt"
+Dr. Michael Thomas,"Brückenstraße 10, 5110 Oberndorf bei Salzburg",06272/407 33,"Hautarzt | Hautarzt,Wahlarzt"
+Dr. Richard Tögel,"Salzburger Straße 56, 5110 Oberndorf bei Salzburg",06272/20202,Hautarzt
+Dr. Walter Hangler,"Alte Bundesstraße 4, 5500 Bischofshofen",06462/21 077,"Hautarzt | Hautarzt, Angiologe"
+Dr. Andreas Ludwig Jenke,"Hauptstraße 15, 5600 Sankt Johann im Pongau",06412/64 04,Hautarzt
+Dr. Christian Maczek,"Schillerstraße 8a/Top 7, 5700 Zell am See",06542/47404,Hautarzt
+Dr. Günther Olsacher,"Schwimmschulgasse 8, 5580 Tamsweg",06474/2309,"Hautarzt | Hautarzt, Angiologe"
+Dr. Christian Seer,"Michael-Walchhofer-Straße 13, 5541 Altenmarkt im Pongau",06452/21078,"Hautarzt | Hautarzt,Wahlarzt"
+Dr. Andrea Bauer,"Grießgasse 12/7, 5630 Bad Hofgastein",06432/20311,"Hautärztin | Hautärztin,Wahlärztin"
+Dr. Jitka Benesova,"Klausgasse 49, 5730 Mittersill",06562/205 37,Hautärztin
+Dr. Claudia Triendl,"Loferer Straße 42a, 5760 Saalfelden am Steinernen Meer",06582/700 05,Hautärztin
+Dr. Zita Gabriela Hoffer,"Andreas Hofer-Straße 31, 6020 Innsbruck",0512/582 662,Hautärztin
+Dr. Brigitte Illersperger,"Maria Theresien-Straße 11/1, 6020 Innsbruck",0512/589934,Hautärztin
+Dr. Christoph Wörner,"Museumstraße 32, 6020 Innsbruck",0512/582793,Hautarzt
+Dr. Doris Neururer,"Adamgasse 13, 6020 Innsbruck",0512/57 13 28,Hautärztin
+Dr. Sabine Oberthaler,"Defreggerstraße 14, 6020 Innsbruck",0664/5943593,"Hautärztin | Hautärztin,Wahlärztin"
+Dr. Anton Petter,"Amraserstraße 25, 6020 Innsbruck",0512/20 90 14,Hautarzt
+Dr. Dietmar Heiser,"Olympiastraße 17, 6020 Innsbruck",0512/909323,"Hautarzt | Hautarzt,Wahlarzt"
+Dr. Christina Rainer-Längle,"Langer Weg 15/2. Stock, 6020 Innsbruck",0512/564166,"Hautärztin | Hautärztin,Wahlärztin"
+Dr. Alfred Karl Grassegger,"Salurner Straße 15/I - Holiday Inn Passage, 6020 Innsbruck",0512/58 85 57,Hautarzt
+Dr. Maresa Bodenberger,"Museumstraße 20, 6020 Innsbruck",0512/209067,Hautärztin
+Dr. Karin Niescher-Lüftl,"Neuhauserstraße 2, 6020 Innsbruck",0512/56 34 44,"Hautärztin | Hautärztin,Wahlärztin"
+Dr. Martina Zingg-Schir,"Bienerstraße 21, 6020 Innsbruck",0512/583783,Hautärztin
+Dr. Bettina Hönlinger,"Neuhauserstraße 2, 6020 Innsbruck",0512 / 56 34 44,"Hautärztin | Hautärztin,Wahlärztin"
+Dr. Cornelia Egger,"Innrain 143, 6020 Innsbruck",0512/20 90 43,"Hautärztin | Hautärztin,Wahlärztin"
+Dr. Doris Penz-Schneeweiß,"Landseestraße 3, 6020 Innsbruck",0512/39 97 55,"Hautärztin | Hautärztin,Wahlärztin"
+Prim. Univ. Prof. Dr. Norbert Sepp,"Speckbacherstraße 16a/3, 6020 Innsbruck",0660/737 04 18,"Hautarzt | Hautarzt,Wahlarzt"
+Dr. Christine Staudacher-Villinger,"Arzler Straße 43 A/Nova Park, 6020 Innsbruck",0512/2666000,Hautärztin
+Doz. Dr. Florian Weber,"Maria-Theresien-Straße 16, 6020 Innsbruck",0512/587 664,Hautarzt
+Dr. Hildegard Gundel-Leiter,"Bahnhofstraße 27, 6176 Völs",0512/30 25 00,Hautärztin
+Univ.Doz. Dr. Heinz Kofler,"Thurnfeldgasse 3A, 6060 Hall in Tirol",05223/575 00,"Hautarzt | Hautarzt,Wahlarzt"
+Dr. Charlotte Grillitsch,"Fürstengasse 1, 6060 Hall in Tirol",05223/43928,"Hautärztin | Hautärztin,Wahlärztin"
+Dr. Ludwig Spötl,"Münzergasse 3, 6060 Hall in Tirol",05223/454 85-9,"Hautarzt | Hautarzt,Wahlarzt"
+Doz. Dr. Gerda Christa Topar,"Behaimstraße 2, 6060 Hall in Tirol",05223/20 49 24,"Hautärztin | Hautärztin,Wahlärztin"
+Dr. Andreas Orou,"Kirchgasse 3, 6200 Jenbach",05244/65170-0,Hautarzt
+Dr. Laura Kühnelt-Leddihn,"Florianstraße 7, 6170 Zirl",05238/52859,"Hautärztin | Hautärztin,Wahlärztin"
+Dr. Simone Mitteregger,"Florianstraße 7, 6170 Zirl",05238/52859,"Hautärztin | Hautärztin,Wahlärztin"
+Dr. Georg Wersching,"Rohrerstraße 19, 6280 Zell am Zillertal",05282/55000,"Hautarzt | Hautarzt,Wahlarzt"
+Dr. Marion Lakitsch,"Ringstraße 11, 6830 Rankweil",05522/477 99,Hautärztin
+Dr. Marcus Kadgien,"Hof 29, 6951 Lingenau",05513/304 72 0,Hautarzt
+Dr. Christian Kranl,"Andreas-Hofer-Straße 3, 6130 Schwaz",05242/672 00,Hautarzt
+Dr. Viktor Steichen,"Marktplatz 3, 6410 Telfs",05262/69 69 75,Hautarzt
+Dr. Elisabeth Muglach,"Mühlgasse 3, 6410 Telfs",05262/629 00,"Hautärztin | Hautärztin,Wahlärztin"
+Dr. Kathrin Dander,"Marktstraße 45, 6230 Brixlegg",05337/642 79,"Hautärztin | Hautärztin,Wahlärztin"
+Dr. Stefan Donhauser,"Andreas-Hofer-Platz 1 / 2. Stock, 6300 Wörgl",05332/709 59,"Hautarzt | Hautarzt,Wahlarzt"
+Dr. Soja Shamizadeh Kalkhoran,"Andreas Hofer-Platz 1, 6300 Wörgl",05332/70959,"Hautärztin | Hautärztin,Wahlärztin"
+Dr. Sylvia Bettina Mayr,"Bahnhofstraße 25, 6300 Wörgl",05332/20730,Hautärztin
+Dr. Werner Groer,"Andreas-Hofer-Platz 1 / 2. Stock, 6300 Wörgl",05332/70959,"Hautarzt | Hautarzt,Wahlarzt"
+Dr. Elisabeth Fuchs-Dessl,"Georg Pirmoser Straße 3, 6330 Kufstein",05372/714 38,Hautärztin
+Dr. Radu Nicolaie Buligan,"Unterer Stadtplatz 9, 6330 Kufstein",05372/6253121,Hautärztin
+Mag. DDr. Andreas Kapetanopoulos,"Kronthalerstraße 4, 6330 Kufstein",05372/220 88,"Hautarzt | Hautarzt,Wahlarzt"
+Dr. Sara Mauracher,"Kaiserbergstraße 22, 6330 Kufstein",05372/62020,Hautärztin
+Dr. Mechthild Ottenthal,"Kirchgasse 13, 6370 Kitzbühel",0650/2006693,"Hautärztin | Hautärztin,Wahlärztin"
+Dr. Karen Vorberg,"Hornweg 28, 6370 Kitzbühel",05356/60 12 25,"Hautärztin | Hautärztin,Wahlärztin"
+Dr. Ulrike Ortner,"Dr.-Carl-Pfeiffenberger-Straße 24, 6460 Imst",05412/64844,Hautärztin
+Dr. Manuel Wilhelm,"Urichstraße 43, 6500 Landeck",05442/650 98,Hautarzt
+Dr. Peter Zimmermann,"Zeillerplatz 1, 6600 Reutte",05672/72899,Hautarzt
+Dr. Katja Carmen Jasmin Barlas,"Bahnhofstraße 14, 6700 Bludenz",05552/314 54,"Hautärztin | Hautärztin,Wahlärztin"
+Univ.Prof. Dr. Achim Schneeberger,"Bundesstraße 47, 6710 Nenzing",05525/62 192,Hautarzt
+Dr. Claudia Schießl,"Reichenfeldgasse 8a, 6800 Feldkirch",05522/72229,Hautärztin
+OÄ Dr. Nicole Zanschmidt,"Carinagasse 47, 6800 Feldkirch",05522/303-9126,"Hautärztin | Hautärztin,Wahlärztin"
+Prim. Univ.Doz. Dr. Robert Strohal,"Carinagasse 47/KH Derm.Amb., 6800 Feldkirch",05522/303 12 30,"Hautarzt | Hautarzt,Wahlarzt"
+Priv.-Doz. Dr. med. Rainer Hügel,"Schulgasse 4, 6900 Bregenz",0699/19250423,"Hautarzt | Hautarzt,Wahlarzt"
+Dr. Bernadette Feuerstein,"Am Garnmarkt 3, 6840 Götzis",05523/56057,Hautärztin
+Dr. Lukas Kraus,"Schulgasse 36, 6850 Dornbirn",05572 / 386638,"Hautarzt | Hautarzt,Wahlarzt"
+Dr. Herwig Schäppi,"Marktstraße 30, 6850 Dornbirn",05572/39 40 10,"Hautarzt | Hautarzt,Wahlarzt"
+Dr. Christa Zußner,"Mozartstraße 5, 6850 Dornbirn",05572/29920,"Hautärztin | Hautärztin,Wahlärztin"
+Dr. Mirjam Volgger,"Am Kehlerpark 2, 6850 Dornbirn",05572/200663,"Hautärztin | Hautärztin,Wahlärztin"
+MR Dr. Udo Längle,"Riedgasse 9/1, 6850 Dornbirn",05572/283 63,"Hautarzt | Hautarzt,Wahlarzt"
+Dr. Nuschin Meykadeh,"St. Martin Straße 4, 6850 Dornbirn",05572/386618,Hautärztin
+Dr. Neslisah Huynh,"Maria-Theresien-Straße 6 / 1. Stock, 6890 Lustenau",05577/85600,Hautärztin
+Dr. Hans Winkler,"Rheindorferstraße 24/2, 6890 Lustenau",05577/886 55,Hautarzt
+Dr. Wolfgang Volgger,"Langenerstraße 1, 6900 Bregenz",05574/586 68,"Hautarzt | Hautarzt,Wahlarzt"
+Dr. Michael A. Lukas,"Langenerstraße 1, 6900 Bregenz",05574/586 68,"Hautarzt | Hautarzt,Wahlarzt"
+Dr. Manfred Hinteregger,"Arlbergstraße 119/Top 22, 6900 Bregenz",05574/765 06,Hautarzt
+Dr. Gunter Copony,"Römerstraße 11, 6900 Bregenz",05574/545 54,"Hautarzt | Hautarzt,Wahlarzt"
+Dr. Carola Wolber,"Römerstraße 30/8, 6900 Bregenz",05574/53 54 5,Hautärztin
+Dr. Manuela Gutschi,"In der Wirke 3, 6971 Hard",05574/82820,"Hautärztin | Hautärztin,Wahlärztin"
+Dr. Helga Perger-Markl,"Untere Hauptstraße 27, 7100 Neusiedl am See",02167/21 00,"Hautärztin | Hautärztin, Angiologin"
+Dr. Kai Pleyer,"Röntgengasse 28/6, 7400 Oberwart",03352/324 84,Hautarzt
+Dr. Elke Spreizer,"Klostergasse 30, 8280 Fürstenfeld",03382/558 60,Hautärztin
+Dr. Rainer Peschke,"Hauptstraße 11-13, 7132 Frauenkirchen",02172/212 15,"Hautarzt | Hautarzt,Wahlarzt"
+Dr. Kurt Cziegler,"Rosengasse 7, 7350 Oberpullendorf",02612/437 57,Hautarzt
+Dr. Eva Brabek,"Hauptplatz 1, 7540 Güssing",03322/420 45,Hautärztin
+OA Dr. Michael Tripolt,"Bergmanngasse 7, 8010 Graz",0664/407 45 99,"Hautarzt | Hautarzt, Allgemeinchirurg,Wahlarzt"
+Dr. Ulrike Pilger,"Rosenberggasse 1, 8010 Graz",0316/830 193,"Hautärztin | Hautärztin, Angiologin,Wahlärztin"
+Dr. Christiane Szolar-Platzer,"Berthold-Linder-Weg 15, 8047 Graz-Ragnitz",0664/5041211,Hautärztin
+Priv.Doz. Dr. Barbara Binder,"Kaiser-Josef-Platz 3/1, 8010 Graz",0316 / 826606,"Hautärztin | Hautärztin,Wahlärztin"
+Ao.Univ.Prof. Dr. Franz Josef Legat,"Kreuzgasse 35/2, 8010 Graz",0664/735 307 02,"Hautarzt | Hautarzt,Wahlarzt"
+Priv.Doz. Dr. Cesare Massone,"Brunngasse 3, 8010 Graz",0316/42 43 98,"Hautarzt | Hautarzt,Wahlarzt"
+Dr. Eva Waniek,"Am Föhrengrund 1, 8043 Graz-Kroisbach",0316/383926,"Hautärztin | Hautärztin,Wahlärztin"
+Univ.Prof. Dr. Helmut Kerl,"Kreuzgasse 35/2, 8010 Graz",0664/88 47 42 22,"Hautarzt | Hautarzt,Wahlarzt"
+Dr. Armin Justich,"Glacisstraße 57, 8010 Graz",0316/82 31 53,"Hautarzt | Hautarzt,Wahlarzt"
+Ao.Univ.Prof. Dr. Daisy Maria Kopera,"Kaiser Josef-Platz 3/1, 8010 Graz",0316/82 66 06,"Hautärztin | Hautärztin,Wahlärztin"
+OA Dr. Harald Reiter,"Berthold Linder-Weg 15, 8047 Graz-Ragnitz",0316/596 31 00,"Hautarzt | Hautarzt,Wahlarzt"
+Dr. Gertraud Tunus,"Prokopigasse 2/2, 8010 Graz",0316/816400,"Hautärztin | Hautärztin,Wahlärztin"
+Prim. Ao.Univ.Prof. Dr. Robert Müllegger,"Nibelungengasse 66, 8010 Graz",0676/9338802,Hautarzt
+Univ.Prof. Dr. Peter Paul Wolf,"Heinrichstraße 94, 8010 Graz",0316/384 133,"Hautarzt | Hautarzt,Wahlarzt"
+Dr. Sigrid Wittek-Saltzberg,"Einsiedlerweg 11, 8043 Graz-Kroisbach",0676/933 40 76,"Hautärztin | Hautärztin,Wahlärztin"
+Priv.Doz. Dr. Ingrid Wolf,"Kreuzgasse 35, 8010 Graz",0664/553 88 01,"Hautärztin | Hautärztin,Wahlärztin"
+Dr. Reinhold Ortner,"Annenstraße 44, 8020 Graz",0316/712674,Hautarzt
+Priv.-Doz. Dr. Edith Arzberger,"Brunngasse 3, 8010 Graz",0316/424398,"Hautärztin | Hautärztin,Wahlärztin"
+Dr. Michaela Stangl,"Bergmanngasse 7, 8010 Graz",0316/671 542,Hautärztin
+Dr. Paulus Zenahlik,"Grüne Gasse 7, 8020 Graz",0316/76 00 11 11,Hautarzt
+Dr. Gerhard Leitinger,"Herrengasse 28, 8010 Graz",0316/319434,Hautarzt
+OA Dr. Ralf Ludwig,"Plüddemanngasse 15, 8010 Graz",0316/32 79 20,Hautarzt
+Dr. Arnold Gerger,"Hans Sachs-Gasse 12, 8010 Graz",0316/830645,Hautarzt
+Dr. Stefan Bartenstein,"Conrad von Hötzendorf-Straße 22, 8010 Graz",0316/816381,Hautarzt
+MR Dr. Heinz Kneifel,"Lazarettgürtel 55, 8020 Graz",0316/77 18 03,Hautarzt
+Dr. Sylvia Seinitz,"St. Peter Hauptstraße 31E/2, 8042 Graz",0316/463992,Hautärztin
+Dr. Bettina Kranzelbinder,"Muchargasse 18a, 8010 Graz",0316/232305,Hautärztin
+Dr. Evgenia Galli-Novak,"Mozartgasse 4, 8010 Graz",0316/26 97 40,"Hautärztin | Hautärztin,Wahlärztin"
+Dr. Nicola Ravnik-Ehrengruber,"Annenstraße 44, 8020 Graz",0650/220 33 31,Hautärztin
+Dr. Regina Klampfer,"Haydngasse 10, 8010 Graz",0316/828 78 10,Hautärztin
+Priv.Doz. Dr. Bernd Leinweber,"Beethovenstraße 5, 8010 Graz",0316/32 40 55,Hautarzt
+Dr. Anna Maria Derler,"Körösistraße 9, 8010 Graz",0664/343 52 80,Hautärztin
+Dr. Aslihan Okcu,"Grazerstraße 53, 8101 Gratkorn",03124 / 25470,Hautärztin
+Dr. Piet Auer-Grumbach,"Weizerstraße 9/I, 8200 Gleisdorf",03112/50085,Hautarzt
+OA Dr. Emad Arbab,"Franz-Josef-Straße 17, 8200 Gleisdorf",03112/623030,Hautarzt
+Priv.Doz. Dr. Peter Komericki,"Kärntnerstraße 12, 8720 Knittelfeld",03512/71006,Hautarzt
+Dr. Regina Herzl-Kofler,"Am Arlandgrund 17/1/4, 8045 Graz-Andritz",0316/67 21 21,Hautärztin
+Dr. Agnes Bretterklieber,"Pachern Hauptstraße 90/2, 8075 Hart bei Graz",0316/491459,"Hautärztin | Hautärztin,Wahlärztin"
+Dr. Ingrid Woltsche-Kahr,"Kärntnerstraße 400, 8054 Graz-Straßgang",0316/286022,Hautärztin
+Dr. Michaela Wiednig,"Kärntnerstraße 518, 8054 Seiersberg",0664/ 4840028,"Hautärztin | Hautärztin,Wahlärztin"
+Dr. Natalie Zöchling,"Birkfelder Straße 48/2.Stock/Top 2.2, 8160 Etzersdorf",03172/460 57,Hautärztin
+Dr. Martin J. Gruber,"Hans Sutter-Gasse 3, 8160 Weiz",03172/44160,Hautarzt
+Dr. Michaela Trummer,"Färbergasse 2, 8121 Deutschfeistritz",0676/538 84 67,Hautärztin
+Dr. Renate Schöllnast,"Mühlgasse 17, 8580 Köflach",03144 / 35474,"Hautärztin | Hautärztin,Wahlärztin"
+Dr. Gero Manfred Gailhofer,"Hauptplatz 43, 2.Stock, 8570 Voitsberg",03142/22 87 70,Hautarzt
+Dr. Silvia Ettlinger,"Baumschulgasse 5, 8230 Hartberg",03332/63400,Hautärztin
+Dr. Thomas Kern,"Sigmund Freud-Platz 1, 8330 Feldbach",03152/89 85 60,"Hautarzt | Hautarzt, Angiologe"
+Dr. Rodica Popa,"Langgasse 53/1, 8490 Bad Radkersburg",03476/2998,Hautärztin
+Dr. Peter Kahofer,"Sailergasse 14/1, 8430 Leibnitz",03452/867 00,Hautarzt
+Dr. Julius Thomas Kainz,"Dechant Thaller-Straße 34, 8430 Leibnitz",03452/83611,Hautarzt
+Dr. Edgar Rieger,"Frauentaler Straße 51/1, 8530 Deutschlandsberg",03462/73 70,Hautarzt
+Dr. Verena Rieger-Ziegler,"Frauentaler Straße 51/1, 8530 Deutschlandsberg",03462/73 70-15,Hautärztin
+Dr. Christoph Niederecker,"Siegfried Marcus-Straße, 8605 Kapfenberg",03862/22 24 20,Hautarzt
+Dr. Doris Sutter,"Erzherzog Johann Gasse 1, 8600 Bruck an der Mur",03862/568 71,Hautärztin
+Dr. Miran Drofenik,"Hauptstraße 13, 8650 Kindberg",03865/3340,Hautarzt
+Dr. Eva Christine Trauner,"Waasenplatz 1, 8700 Leoben",03842/216 00,Hautärztin
+Dr. Bernd Helmut Achleitner,"Franz Josef-Straße 8/2, 8700 Leoben",03842/441 44,Hautarzt
+Dr. Elmar Innauer,"Hans Klöpfer-Straße 6/1, 8750 Judenburg",03572/421 82,Hautarzt
+Dr. Rok Kokol,"Rathausplatz 2, 8940 Liezen",03612/20 801,Hautarzt
+Dr. Manfred Tritscher,"Maistatt 825, 8970 Schladming",03687/225 11,Hautarzt
+Prim. Priv.Doz. Dr. Bernhard Lange-Asschenfeldt,"Feschnigstraße 11, 9020 Klagenfurt",0664/619 31 51,"Hautarzt | Hautarzt,Wahlarzt"
+Dr. Reinhold Michael Gassner,"8. Mai-Straße 47, 9020 Klagenfurt",0463/50 37 49,Hautarzt
+Dr. Kornelia Marketz,"St. Veiter Straße 41, 9020 Klagenfurt",0463/511363,Hautärztin
+Dr. Barbara Wolfesberger,"Villacher Straße 1a/6/63, 9020 Klagenfurt",0463/505 34,Hautärztin
+Dr. Christian Kos,"Alter Platz 31/1, 9020 Klagenfurt",0463/50 77 94,Hautarzt
+Dr. Magarethe Kobalter,"St. Veiter Straße 85, 9020 Klagenfurt",0463/51 23 45,"Hautärztin | Hautärztin,Wahlärztin"
+Dr. Michael Adamitsch,"Rosentalerstraße 7, 9020 Klagenfurt",0463/50 11 22,"Hautarzt | Hautarzt,Wahlarzt"
+OA Dr. Hannes Kolle,"Medizinweg 2, 9065 Ebenthal",0660/1361993,"Hautarzt | Hautarzt,Wahlarzt"
+"Dr. Christa Stückler, MSc","Seecorso 4/3, 9220 Velden",0660/5905554,"Hautärztin | Hautärztin,Wahlärztin"
+Dr. Dagmar Mayrhofer-Schmid,"Grabenstraße 10, 9300 St. Veit an der Glan",04212/301 10,Hautärztin
+Dr. Andrea Dagmar Lengyel,"Griffnerstraße 9, 9100 Völkermarkt",04232 / 32 42,"Hautärztin | Hautärztin,Wahlärztin"
+Dr. Isolde Rudolf,"Umfahrungsstraße 15, 9100 Völkermarkt",04232/373 77,Hautärztin
+Dr. Michael Gasser,"Völkendorfer Straße 25 A, 9500 Villach",04242/52838,"Hautarzt | Hautarzt, Angiologe"
+Dr. Sylvia Hackl,"Oktoberstraße 23, 9500 Villach",04242/23329,"Hautärztin | Hautärztin,Wahlärztin"
+Dr. Uwe Christian Gaggl,"Bahnhofplatz 4, 9500 Villach",04242/22442,Hautarzt
+Dr. Johanna Maria Staubmann-Kury,"Nikolaigasse 39, 9500 Villach",04242/26 46 90,Hautärztin
+Dr. Daevi Kathrin Haselbach,"Kreuzstrasse 38, 9330 Althofen",04262/273 38,Hautärztin
+Dr. Sabine Rainer,"Spanheimerstraße 13/1, 9400 Wolfsberg",04352/309 00,"Hautärztin | Hautärztin,Wahlärztin"
+Dr. Johann Derhaschnig,"Spanheimerstraße 26, 9400 Wolfsberg",04352/303 03,Hautarzt
+Dr. Max Wutte,"Rizzistraße 1, 9800 Spittal an der Drau",04762/423 06,"Hautarzt | Hautarzt, Angiologe"
+Dr. Alexander Winkler,"Alleestraße 21, 9900 Lienz",04852/679 27,Hautarzt
+Dr. Anton Bacher,"Grafendorfer Straße 5a, 9900 Lienz",04852/69693,Hautarzt
+Dr. Bettina Eigner,"10. Oktober-Straße 27/II, 9560 Feldkirchen in Kärnten",04276/37 200,Hautärztin
+Dr. Albert Bacher,"Maderspergerstraße 10/2, 3151 St. Georgen am Steinfelde",0664/644 10 11,"Hautarzt | Hautarzt, Angiologe,Wahlarzt"
+Dr. Sidi Unterkircher,"Schwarzingerfeld 1, 6380 St. Johann in Tirol",05352/64535,"Hautärztin | Hautärztin,Wahlärztin"
+Dr. Karl Heinz Friedrich,"Neubauweg 23, 6380 St. Johann in Tirol",05352/659 11,"Hautarzt | Hautarzt,Wahlarzt"
