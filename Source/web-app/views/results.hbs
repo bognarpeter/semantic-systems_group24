@@ -1,0 +1,25 @@
+<div class="main-container" align="center">
+    <div class="container">
+      <img id="logo" src="logo.png" class="responsive">
+        <div class="container">
+            <br><br>
+            <div class="row">
+               <div class="col s12">
+               {{# if results }}
+               <table class="striped" id="resTable">
+                 {{# each results as |r key|}}
+                 <tr>
+                   <td>{{ r.name }}</td>
+                 </tr>
+                 {{/each}}
+               </table>
+               {{/if}}
+              </div>
+          </div>
+          <form method="get" action="/" class="center">
+              <button type="submit" class="btn pink waves-effect waves-dark">New Query</button>
+          </form>
+        </div>
+        <br>
+    </div>
+</div>
