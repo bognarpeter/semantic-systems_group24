@@ -1,0 +1,5 @@
+# Österreich
+["pharmakologe-toxikologe", "transfusionsmediziner", "nuklearmediziner","immunologe", "herzchirurg", "gerichtsmediziner", "arbeitsmediziner","tropenmediziner", "infektiologe", "strahlentherapeut-radioonkologe", "kinderneurologe", "proktologe"]
+
+# pro Ort
+["anaesthesist", "lungenfacharzt", "kieferchirurgie", "allgemeinchirurg", "angiologe", "endokrinologe-diabetologe", "hno-arzt", "nephrologe", "intensivmediziner", "kardiologe", "gastroenterologe-hepatologe", "haematologe-onkologe", "internist", "psychiater", "kinderarzt", "rheumatologe", "radiologe", "haematologe-onkologe-radioonkologe", "augenarzt", "hautarzt", "plastischer-chirurg", "praktischer-arzt", "zahnarzt", "neurochirurg", "neurologe", "neuropathologe", "urologe", "frauenarzt", "orthopaede", "orthopaede-traumatologe"]
